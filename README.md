@@ -21,7 +21,6 @@
 
 ### 2. Intelligent TA System 
 * **Core Focus:** LLM & RAG (Natural Language Processing)
-* **Collaborators:** Research under Prof. Pavlos Protopapas (Harvard SEAS)
 * **Description:** Built an automated teaching assistant system using Large Language Models and Retrieval-Augmented Generation. 
 * **Key Contribution:** Optimized codebase and fine-tuned models for better retrieval accuracy.
 
