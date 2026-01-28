@@ -19,7 +19,7 @@
 * **Description:** Developed a robust predictive model to assess individual credit default risks.
 * **Key Results:**  Demonstrated expertise in feature engineering and model evaluation.
 
-### 2. Intelligent TA System (Harvard Research Group)
+### 2. Intelligent TA System 
 * **Core Focus:** LLM & RAG (Natural Language Processing)
 * **Collaborators:** Research under Prof. Pavlos Protopapas (Harvard SEAS)
 * **Description:** Built an automated teaching assistant system using Large Language Models and Retrieval-Augmented Generation. 
