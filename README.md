@@ -30,7 +30,7 @@
 
 ---
 ## 🎓 Education
-* **Capital University of Economics and Business** (Joint Program with Arizona State University)
+* **Capital University of Economics and Business** (Joint Program with University of Arizona)
 * **Major:** Statistics & Data Science
 
 ---
