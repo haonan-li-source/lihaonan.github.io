@@ -119,7 +119,7 @@ description: Selected research, engineering, and applied analysis in statistics,
         <h3>Basketball Team Captain</h3>
         <p>Led the team to third place in the 2026 Faculty Cup, its best result in team history, and was selected for the university All-Star roster.</p>
         <h3>University Track</h3>
-        <p>Runner-up in the men’s 400 m at the 2024 University Sports Meet; third in the 400 m at the 2023 Freshman Sports Meet; fourth in the 1,500 m at the 2024 University Sports Meet.</p>
+        <p>Ran the men’s 400 m in 56 seconds—meeting the national Level III athlete benchmark—while placing runner-up at the 2024 University Sports Meet; also placed third in the 400 m at the 2023 Freshman Sports Meet and fourth in the 1,500 m at the 2024 University Sports Meet.</p>
       </aside>
     </div>
   </div>
