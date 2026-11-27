@@ -5,7 +5,7 @@ title: Huaneng Investment Management Internship
 
 [← Internships](../) · [← Portfolio](../../../)
 
-# Huaneng Investment Management Co., Ltd.
+# Investment Research and Data Analysis Internship at Huaneng Investment Management
 
 <div class="project-meta"><strong>Role:</strong> Investment research and data-analysis intern &nbsp; · &nbsp; <strong>Period:</strong> Jul–Sep 2025</div>
 

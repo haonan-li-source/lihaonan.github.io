@@ -7,9 +7,9 @@ description: Selected research, engineering, and applied analysis in statistics,
 <section class="hero">
   <div class="hero-shell">
     <div>
-      <p class="section-kicker">Statistics · Data Science · Decision Systems</p>
+      <p class="section-kicker">Quantitative work across statistics, computing, and applied research</p>
       <h1>Haonan Li</h1>
-      <p class="hero-lead">Statistics undergraduate at Capital University of Economics and Business and Data Science undergraduate at the University of Arizona. I develop quantitative work that moves from study design and reproducible analysis to models, software, and decisions across biomedical data, finance, public-sector statistics, and applied AI.</p>
+      <p class="hero-lead">I study Statistics at Capital University of Economics and Business and Data Science at the University of Arizona. My projects use quantitative methods to answer concrete questions in biology, health care, finance, experimentation, and operations. This site documents the methods, results, and public materials behind that work.</p>
       <div class="hero-actions">
         <a class="button button-primary" href="#work">Explore selected work</a>
         <a class="button button-secondary" href="https://github.com/haonan-li-source">View GitHub</a>
@@ -19,14 +19,13 @@ description: Selected research, engineering, and applied analysis in statistics,
     <aside class="credential-panel" aria-label="Academic profile">
       <div class="credential-item"><span>Capital University of Economics and Business</span><strong>B.S. Statistics · GPA 4.27/5.00</strong><em>Ranked second in the major</em></div>
       <div class="credential-item"><span>University of Arizona</span><strong>B.S. Data Science · GPA 4.00/4.00</strong><em>Ranked first in the major</em></div>
-      <div class="credential-item"><span>Current trajectory</span><strong>Research, rigorous evaluation, and applied systems</strong></div>
     </aside>
   </div>
 </section>
 
 <div class="evidence-band" aria-label="Portfolio highlights">
-  <div class="evidence-item"><strong>121</strong><span>ENCODE datasets in computational biology research</span></div>
-  <div class="evidence-item"><strong>7.68M</strong><span>longitudinal healthcare encounters analyzed</span></div>
+  <div class="evidence-item"><strong>10</strong><span>selected research, innovation, and course projects</span></div>
+  <div class="evidence-item"><strong>4</strong><span>research and industry internships</span></div>
   <div class="evidence-item"><strong>1 paper</strong><span>published as sole and corresponding author</span></div>
   <div class="evidence-item"><strong>1 patent</strong><span>published application as first-named inventor</span></div>
 </div>
@@ -34,8 +33,8 @@ description: Selected research, engineering, and applied analysis in statistics,
 <section class="home-section">
   <div class="section-shell">
     <div class="section-heading">
-      <div><p class="section-kicker">Working range</p><h2>Evidence across four areas</h2></div>
-      <p>The portfolio is organized around the abilities that recur across my work: sound statistical reasoning, reliable computation, domain-aware analysis, and clear decisions. Each project page records the problem, my role, methods, results, and deliverables.</p>
+      <div><p class="section-kicker">Practice</p><h2>Methods and domains</h2></div>
+      <p>The projects below combine statistical inference, computation, domain knowledge, and implementation. Their emphasis varies by problem: biological structure, health risk, financial modeling, experimentation, and operational systems.</p>
     </div>
     <div class="capability-grid">
       <article class="capability-card"><div class="capability-mark"></div><h3>Statistical foundations</h3><p>Bayesian networks, nonparametric inference, time series, experimentation, bootstrap analysis, calibration, and model diagnostics.</p></article>
@@ -67,14 +66,14 @@ description: Selected research, engineering, and applied analysis in statistics,
 <section id="experience" class="home-section">
   <div class="section-shell">
     <div class="section-heading">
-      <div><p class="section-kicker">Applied experience</p><h2>Research and industry settings</h2></div>
+      <div><p class="section-kicker">Applied experience</p><h2>Internships across research and industry</h2></div>
       <p>Four internships required different forms of evidence: signal-level scientific quality control, investment research, business-intelligence reconciliation, and official statistical validation.</p>
     </div>
     <div class="experience-list">
-      <article class="experience-card"><div><p class="experience-meta">Aug–Oct 2026 · Research</p><h3><a href="./projects/internships/cibr/">Chinese Institute for Brain Research</a></h3></div><p>Linked functional imaging, three-dimensional microscopy, and EASI-FISH measurements through z-stack review, spot correction, ROI–gene matrix construction, and exploratory clustering.</p></article>
-      <article class="experience-card"><div><p class="experience-meta">Jul–Sep 2025 · Investment</p><h3><a href="./projects/internships/huaneng/">Huaneng Investment Management</a></h3></div><p>Combined energy-sector research, an internal LLM-adoption study, source-traceable retrieval, and robust analysis of 472 A-share IPOs across four boards.</p></article>
-      <article class="experience-card"><div><p class="experience-meta">Feb–Mar 2025 · Business intelligence</p><h3><a href="./projects/internships/trs/">TRS Information Technology</a></h3></div><p>Integrated sales tables with SQL, reconciled business metrics, and independently built a FineBI dashboard covering product, region, discount, and target performance.</p></article>
-      <article class="experience-card"><div><p class="experience-meta">Jun–Aug 2024 · Official statistics</p><h3><a href="./projects/internships/dadong/">Dadong District Statistics Bureau</a></h3></div><p>Validated enterprise and fixed-asset investment records through cross-period checks, growth and contribution analysis, evidence review, and monitoring ledgers.</p></article>
+      <article class="experience-card"><div><p class="experience-meta">Aug–Oct 2026 · Research internship</p><h3><a href="./projects/internships/cibr/">Chinese Institute for Brain Research</a></h3></div><p>Linked functional imaging, three-dimensional microscopy, and EASI-FISH measurements through z-stack review, spot correction, ROI–gene matrix construction, and exploratory clustering.</p></article>
+      <article class="experience-card"><div><p class="experience-meta">Jul–Sep 2025 · Investment research internship</p><h3><a href="./projects/internships/huaneng/">Huaneng Investment Management</a></h3></div><p>Combined energy-sector research, an internal LLM-adoption study, source-traceable retrieval, and robust analysis of 472 A-share IPOs across four boards.</p></article>
+      <article class="experience-card"><div><p class="experience-meta">Feb–Mar 2025 · Data analysis internship</p><h3><a href="./projects/internships/trs/">TRS Information Technology</a></h3></div><p>Integrated sales tables with SQL, reconciled business metrics, and independently built a FineBI dashboard covering product, region, discount, and target performance.</p></article>
+      <article class="experience-card"><div><p class="experience-meta">Jun–Aug 2024 · Statistical analysis internship</p><h3><a href="./projects/internships/dadong/">Dadong District Statistics Bureau</a></h3></div><p>Validated enterprise and fixed-asset investment records through cross-period checks, growth and contribution analysis, evidence review, and monitoring ledgers.</p></article>
     </div>
   </div>
 </section>
@@ -109,16 +108,18 @@ description: Selected research, engineering, and applied analysis in statistics,
           <li><time>2026</time><span>“Challenge Cup” Capital University Student Entrepreneurship Plan Competition, Beijing First Prize</span></li>
           <li><time>2026</time><span>Houpu Medal, highest honor of the CUEB School of Statistics and Data Science</span></li>
           <li><time>2025</time><span>President’s Scholarship Nomination Award, highest university-level honor at CUEB</span></li>
-          <li><time>2025</time><span>China “AI Plus” Innovation and Entrepreneurship Challenge, National First Prize</span></li>
+          <li><time>2025</time><span>National College Student “AI Plus” Innovation and Entrepreneurship Competition, Preliminary-Round First Prize</span></li>
           <li><time>2024</time><span>National College Students Mathematics Competition, National Third Prize; Beijing College Students Mathematics Competition, First Prize</span></li>
         </ul>
       </div>
       <aside class="leadership-panel">
-        <p class="section-kicker">Leadership</p>
+        <p class="section-kicker">Leadership &amp; athletics</p>
         <h3>Executive President</h3>
         <p>Led the CUEB School of Statistics and Data Science Student Union and coordinated academic and orientation events serving nearly 1,000 students in total.</p>
         <h3>Basketball Team Captain</h3>
-        <p>Led the team to third place, its best result in team history, and was selected for the university All-Star roster.</p>
+        <p>Led the team to third place in the 2026 Faculty Cup, its best result in team history, and was selected for the university All-Star roster.</p>
+        <h3>University Track</h3>
+        <p>Runner-up in the men’s 400 m at the 2024 University Sports Meet; third in the 400 m at the 2023 Freshman Sports Meet; fourth in the 1,500 m at the 2024 University Sports Meet.</p>
       </aside>
     </div>
   </div>

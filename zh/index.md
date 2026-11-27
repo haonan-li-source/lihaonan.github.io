@@ -7,9 +7,9 @@ description: 统计学、数据科学、生物医学数据、决策系统与负�
 <section class="hero">
   <div class="hero-shell">
     <div>
-      <p class="section-kicker">统计学 · 数据科学 · 决策系统</p>
+      <p class="section-kicker">统计、计算与应用研究中的定量实践</p>
       <h1>李昊男</h1>
-      <p class="hero-lead">首都经济贸易大学统计学专业、亚利桑那大学数据科学专业本科生。我的工作从研究设计和可复现分析出发，延伸到模型、软件与实际决策，涉及生物医学数据、金融、政府统计和应用型人工智能。</p>
+      <p class="hero-lead">我在首都经济贸易大学学习统计学，同时在亚利桑那大学学习数据科学。我的项目以定量方法回答生物、医疗、金融、实验和运营中的具体问题。本网站记录这些工作的研究方法、结果与可公开材料。</p>
       <div class="hero-actions">
         <a class="button button-primary" href="#work">查看代表项目</a>
         <a class="button button-secondary" href="https://github.com/haonan-li-source">查看 GitHub</a>
@@ -19,14 +19,13 @@ description: 统计学、数据科学、生物医学数据、决策系统与负�
     <aside class="credential-panel" aria-label="学业背景">
       <div class="credential-item"><span>首都经济贸易大学</span><strong>统计学学士 · GPA 4.27/5.00</strong><em>专业排名第二</em></div>
       <div class="credential-item"><span>亚利桑那大学</span><strong>数据科学学士 · GPA 4.00/4.00</strong><em>专业排名第一</em></div>
-      <div class="credential-item"><span>项目主线</span><strong>研究、严谨评估与应用系统</strong></div>
     </aside>
   </div>
 </section>
 
 <div class="evidence-band" aria-label="作品集概览">
-  <div class="evidence-item"><strong>121</strong><span>个 ENCODE 数据集用于计算生物学研究</span></div>
-  <div class="evidence-item"><strong>768 万</strong><span>条纵向医疗就诊记录完成分析</span></div>
+  <div class="evidence-item"><strong>10 项</strong><span>代表性科研、创新与课程项目</span></div>
+  <div class="evidence-item"><strong>4 段</strong><span>科研及行业实习经历</span></div>
   <div class="evidence-item"><strong>1 篇论文</strong><span>以独立研究者、第一兼通讯作者发表</span></div>
   <div class="evidence-item"><strong>1 项专利</strong><span>以第一发明人公开申请</span></div>
 </div>
@@ -34,8 +33,8 @@ description: 统计学、数据科学、生物医学数据、决策系统与负�
 <section class="home-section">
   <div class="section-shell">
     <div class="section-heading">
-      <div><p class="section-kicker">能力范围</p><h2>四类相互连接的工作</h2></div>
-      <p>作品集围绕四类反复出现的能力组织：统计推理、可靠计算、领域分析，以及把分析转化为清晰决策。每个项目页面均说明问题、本人角色、方法、结果与成果。</p>
+      <div><p class="section-kicker">实践范围</p><h2>方法与应用领域</h2></div>
+      <p>这些项目结合统计推断、计算实现、领域知识与系统开发，并分别面向生物结构、健康风险、金融建模、实验设计和运营系统等问题。</p>
     </div>
     <div class="capability-grid">
       <article class="capability-card"><div class="capability-mark"></div><h3>统计学基础</h3><p>贝叶斯网络、非参数推断、时间序列、实验设计、Bootstrap、校准与模型诊断。</p></article>
@@ -66,12 +65,12 @@ description: 统计学、数据科学、生物医学数据、决策系统与负�
 
 <section id="experience" class="home-section">
   <div class="section-shell">
-    <div class="section-heading"><div><p class="section-kicker">应用经历</p><h2>科研与行业环境</h2></div><p>四段实习分别体现科学信号质控、投资研究、商业智能核验和政府统计数据验证。</p></div>
+    <div class="section-heading"><div><p class="section-kicker">应用经历</p><h2>科研与行业实习</h2></div><p>四段实习分别体现科学信号质控、投资研究、商业智能核验和政府统计数据验证。</p></div>
     <div class="experience-list">
-      <article class="experience-card"><div><p class="experience-meta">2026.08–10 · 科研</p><h3><a href="../projects/internships/cibr/">北京脑科学与类脑研究所</a></h3></div><p>连接功能成像、三维显微图像和 EASI-FISH 测量，完成 z-stack 复核、荧光点修正、ROI–gene 矩阵构建和探索性聚类。</p></article>
-      <article class="experience-card"><div><p class="experience-meta">2025.07–09 · 投研</p><h3><a href="../projects/internships/huaneng/">华能投资管理有限公司</a></h3></div><p>完成能源行业研究、内部大模型采用情况分析、可追溯检索原型，以及覆盖四个板块的 472 个 A 股 IPO 分析。</p></article>
-      <article class="experience-card"><div><p class="experience-meta">2025.02–03 · 商业智能</p><h3><a href="../projects/internships/trs/">拓尔思信息技术</a></h3></div><p>使用 SQL 整合销售数据、核验业务指标，并独立搭建覆盖产品、地区、折扣和目标完成率的 FineBI 看板。</p></article>
-      <article class="experience-card"><div><p class="experience-meta">2024.06–08 · 政府统计</p><h3><a href="../projects/internships/dadong/">沈阳市大东区统计局</a></h3></div><p>通过跨期核验、增长与贡献分析、材料检查和监测台账，处理企业经营与固定资产投资数据。</p></article>
+      <article class="experience-card"><div><p class="experience-meta">2026.08–10 · 科研实习</p><h3><a href="../projects/internships/cibr/">北京脑科学与类脑研究所</a></h3></div><p>连接功能成像、三维显微图像和 EASI-FISH 测量，完成 z-stack 复核、荧光点修正、ROI–gene 矩阵构建和探索性聚类。</p></article>
+      <article class="experience-card"><div><p class="experience-meta">2025.07–09 · 投资研究与数据分析实习</p><h3><a href="../projects/internships/huaneng/">华能投资管理有限公司</a></h3></div><p>完成能源行业研究、内部大模型采用情况分析、可追溯检索原型，以及覆盖四个板块的 472 个 A 股 IPO 分析。</p></article>
+      <article class="experience-card"><div><p class="experience-meta">2025.02–03 · 数据分析实习</p><h3><a href="../projects/internships/trs/">拓尔思信息技术</a></h3></div><p>使用 SQL 整合销售数据、核验业务指标，并独立搭建覆盖产品、地区、折扣和目标完成率的 FineBI 看板。</p></article>
+      <article class="experience-card"><div><p class="experience-meta">2024.06–08 · 统计分析实习</p><h3><a href="../projects/internships/dadong/">沈阳市大东区统计局</a></h3></div><p>通过跨期核验、增长与贡献分析、材料检查和监测台账，处理企业经营与固定资产投资数据。</p></article>
     </div>
   </div>
 </section>
@@ -98,10 +97,10 @@ description: 统计学、数据科学、生物医学数据、决策系统与负�
         <li><time>2026</time><span>“挑战杯”首都大学生创业计划竞赛，北京市一等奖</span></li>
         <li><time>2026</time><span>厚朴奖章，首都经济贸易大学统计与数据科学学院最高荣誉</span></li>
         <li><time>2025</time><span>校长奖学金提名奖，首都经济贸易大学最高校级荣誉</span></li>
-        <li><time>2025</time><span>中国“AI+”创新创业大赛，全国一等奖</span></li>
+        <li><time>2025</time><span>全国大学生“AI+”创新创业大赛，初赛一等奖</span></li>
         <li><time>2024</time><span>全国大学生数学竞赛全国三等奖、北京市大学生数学竞赛一等奖</span></li>
       </ul></div>
-      <aside class="leadership-panel"><p class="section-kicker">领导经历</p><h3>学生会执行主席</h3><p>负责首都经济贸易大学统计与数据科学学院学生会工作，统筹学术和迎新活动，累计服务近 1,000 名学生。</p><h3>篮球队队长</h3><p>带队获得队史最佳的校院杯第三名，并入选全明星阵容。</p></aside>
+      <aside class="leadership-panel"><p class="section-kicker">领导力与体育</p><h3>学生会执行主席</h3><p>负责首都经济贸易大学统计与数据科学学院学生会工作，统筹学术和迎新活动，累计服务近 1,000 名学生。</p><h3>篮球队队长</h3><p>带队获得 2026 年校院杯第三名，创造队史最佳成绩，并入选全明星阵容。</p><h3>校田径比赛</h3><p>获 2024 年校运会男子 400 米亚军、2023 年新生运动会男子 400 米季军、2024 年校运会男子 1500 米第四名。</p></aside>
     </div>
   </div>
 </section>

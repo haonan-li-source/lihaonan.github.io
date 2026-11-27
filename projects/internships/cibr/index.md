@@ -5,7 +5,7 @@ title: Chinese Institute for Brain Research Internship
 
 [← Internships](../) · [← Portfolio](../../../)
 
-# Chinese Institute for Brain Research, Beijing
+# Research Internship at the Chinese Institute for Brain Research, Beijing
 
 <div class="project-meta"><strong>Role:</strong> Research intern &nbsp; · &nbsp; <strong>Period:</strong> Aug–Oct 2026 &nbsp; · &nbsp; <strong>Focus:</strong> multimodal single-neuron analysis</div>
 

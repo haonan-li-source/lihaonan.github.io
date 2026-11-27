@@ -5,7 +5,7 @@ title: TRS Information Technology Internship
 
 [← Internships](../) · [← Portfolio](../../../)
 
-# TRS Information Technology
+# Data Analysis Internship at TRS Information Technology
 
 <div class="project-meta"><strong>Role:</strong> Data-analysis intern &nbsp; · &nbsp; <strong>Period:</strong> Feb–Mar 2025 &nbsp; · &nbsp; <strong>Tools:</strong> SQL and FineBI</div>
 

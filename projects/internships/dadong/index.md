@@ -5,7 +5,7 @@ title: Dadong District Statistics Bureau Internship
 
 [← Internships](../) · [← Portfolio](../../../)
 
-# Statistics Bureau of Dadong District, Shenyang
+# Statistical Analysis Internship at the Statistics Bureau of Dadong District, Shenyang
 
 <div class="project-meta"><strong>Role:</strong> Statistical practice intern &nbsp; · &nbsp; <strong>Period:</strong> Jun–Aug 2024 &nbsp; · &nbsp; <strong>Focus:</strong> economic monitoring</div>
 
