@@ -9,6 +9,8 @@ title: Dadong District Statistics Bureau Internship
 
 <div class="project-meta"><strong>Role:</strong> Statistical practice intern &nbsp; · &nbsp; <strong>Period:</strong> Jun–Aug 2024 &nbsp; · &nbsp; <strong>Focus:</strong> economic monitoring</div>
 
+<div class="project-actions"><a class="button" href="https://github.com/haonan-li-source/selected-internship-case-studies">View public case-study boundary</a></div>
+
 ## Work context
 
 District statistical monitoring converts enterprise declarations, investment-project records, and supporting evidence into consistent economic indicators. The work requires numerical accuracy together with careful use of statistical definitions, classification standards, and evidence requirements.

@@ -9,6 +9,8 @@ title: Xiangchan AI Operations Platform
 
 <div class="project-meta"><strong>Role:</strong> Project lead and full-stack developer &nbsp; · &nbsp; <strong>Recognition:</strong> Beijing Challenge Cup First Prize</div>
 
+<div class="project-actions"><a class="button" href="https://github.com/haonan-li-source/xiangchan-ai-operations-platform">View code and documentation</a></div>
+
 ## Problem
 
 Cooperatives, family farms, and rural businesses often lack a stable e-commerce operations team. Product facts are fragmented, promotional materials are inconsistent, and external AI services may fail or produce unsupported claims. Xiangchan turns product information into a reviewable operations package rather than a single untraceable text response.
@@ -27,6 +29,8 @@ Cooperatives, family farms, and rural businesses often lack a stable e-commerce 
 ## Engineering and testing
 
 The curated release contains 22 automated tests covering API configuration, intake parsing, generation, retries, offline fallback, risk handling, and source constraints. API keys remain outside version control; the full demonstration can run without them through the local workflow.
+
+The project received First Prize in the “Qingzhi Future” special track of the “Qingchuang Beijing” 2026 “Challenge Cup” Capital University Student Entrepreneurship Plan Competition.
 
 ## Challenge and solution
 

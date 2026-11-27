@@ -9,6 +9,8 @@ title: Financial News Sentiment and the S&P 500
 
 <div class="project-meta"><strong>Role:</strong> Evaluation lead in a five-person capstone &nbsp; · &nbsp; <strong>Period:</strong> 2008–2024 &nbsp; · &nbsp; <strong>Focus:</strong> time-aware validation</div>
 
+<div class="project-actions"><a class="button" href="https://github.com/haonan-li-source/sp500-news-sentiment">View repository and report</a></div>
+
 ## Research question
 
 The project tested whether daily financial-news sentiment adds useful information for next-day S&P 500 direction, returns, and simple trading performance. The evaluation focused on whether a text signal survived chronological testing, threshold changes, transaction costs, and different market regimes.

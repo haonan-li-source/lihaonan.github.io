@@ -9,6 +9,8 @@ title: TRS Information Technology Internship
 
 <div class="project-meta"><strong>Role:</strong> Data-analysis intern &nbsp; · &nbsp; <strong>Period:</strong> Feb–Mar 2025 &nbsp; · &nbsp; <strong>Tools:</strong> SQL and FineBI</div>
 
+<div class="project-actions"><a class="button" href="https://github.com/haonan-li-source/selected-internship-case-studies">View public case-study boundary</a></div>
+
 ## Business context
 
 The project turned multi-table sales records into a consistent business-intelligence workflow. Transaction, product, regional, and target data were integrated so that performance could be reviewed through time, region, product, discount, ranking, and plan-completion views.

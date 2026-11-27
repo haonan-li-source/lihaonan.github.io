@@ -9,6 +9,8 @@ title: Small-Sample A/B Testing System
 
 <div class="project-meta"><strong>Role:</strong> Project lead and first-named inventor &nbsp; · &nbsp; <strong>Status:</strong> Published Chinese invention patent application</div>
 
+<div class="project-actions"><a class="button" href="https://github.com/haonan-li-source/small-sample-ab-testing-system">View GitHub repository</a></div>
+
 ## Problem
 
 Adaptive allocation can direct more traffic toward promising variants, but the allocation process changes the observed sample and can complicate later treatment-effect interpretation. This project addresses the tension between learning efficiency and inferential credibility when experiment traffic is limited, effects are noisy, or a test begins without reliable historical observations.

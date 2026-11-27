@@ -9,6 +9,8 @@ title: DNA Methylation Bayesian Structure Learning
 
 <div class="project-meta"><strong>Role:</strong> Main researcher &nbsp; · &nbsp; <strong>Scale:</strong> 121 ENCODE datasets &nbsp; · &nbsp; <strong>Focus:</strong> local structure learning</div>
 
+<div class="project-actions"><a class="button" href="https://github.com/haonan-li-source/dna-methylation-bayesian-structure-learning">View GitHub repository</a></div>
+
 ## Research question
 
 DNA methylation measurements can be represented as local triplets of binary CpG states. I investigated whether a Bayesian-network structure inferred from one triplet remains coherent when the genomic window moves by one CpG site. The analysis separates local statistical compatibility from stronger claims about biological causation.

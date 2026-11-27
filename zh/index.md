@@ -1,49 +1,122 @@
 ---
 layout: default
-title: 李昊男 | 作品集
+title: 李昊男 | 量化研究与项目作品集
+description: 统计学、数据科学、生物医学数据、决策系统与负责任人工智能领域的代表性研究和项目。
 ---
 
-[English](../) · [GitHub](https://github.com/haonan-li-source) · [邮箱](mailto:haonanli27@163.com)
+<section class="hero">
+  <div class="hero-shell">
+    <div>
+      <p class="section-kicker">统计学 · 数据科学 · 决策系统</p>
+      <h1>李昊男</h1>
+      <p class="hero-lead">首都经济贸易大学统计学专业、亚利桑那大学数据科学专业本科生。我的工作从研究设计和可复现分析出发，延伸到模型、软件与实际决策，涉及生物医学数据、金融、政府统计和应用型人工智能。</p>
+      <div class="hero-actions">
+        <a class="button button-primary" href="#work">查看代表项目</a>
+        <a class="button button-secondary" href="https://github.com/haonan-li-source">查看 GitHub</a>
+        <a class="button button-secondary" href="mailto:haonanli27@163.com">联系我</a>
+      </div>
+    </div>
+    <aside class="credential-panel" aria-label="学业背景">
+      <div class="credential-item"><span>首都经济贸易大学</span><strong>统计学学士 · GPA 4.27/5.00</strong><em>专业排名第二</em></div>
+      <div class="credential-item"><span>亚利桑那大学</span><strong>数据科学学士 · GPA 4.00/4.00</strong><em>专业排名第一</em></div>
+      <div class="credential-item"><span>项目主线</span><strong>研究、严谨评估与应用系统</strong></div>
+    </aside>
+  </div>
+</section>
 
-# 李昊男
-
-首都经济贸易大学统计学专业、亚利桑那大学数据科学专业本科生。我的项目以统计建模、机器学习和数据系统为基础，涵盖生物医学与健康数据、计算生物学、金融与商业分析、决策分析与系统工程，以及应用型 AI 产品开发。
-
-**首都经济贸易大学：** GPA 4.27/5.00，专业排名第二<br>
-**亚利桑那大学：** GPA 4.00/4.00，专业排名第一
-
-<div class="featured-line"><strong>代表成果：</strong> <a href="../projects/dna-methylation/">DNA 甲基化结构学习</a> · <a href="../projects/chronic-care/">慢病路径风险建模</a> · <a href="../projects/xiangchan/">乡产 AI 平台</a> · <a href="../projects/credit-risk/">信用风险论文</a> · <a href="../projects/ab-testing/">A/B 测试专利</a></div>
-
-<p class="card-hint">点击任意项目卡片，可查看项目背景、方法、结果与成果详情。</p>
-
-## 科研、论文与创新项目
-
-<div class="portfolio-grid">
-  <article class="portfolio-card featured"><h3><a href="../projects/dna-methylation/">DNA 甲基化贝叶斯结构学习</a></h3><p>在 121 个 ENCODE 数据集上构建贝叶斯网络分析流程，为 634,824 个有效 CpG 三元组评估 25 种 DAG，并比较 461,271 对重叠窗口；BDeu 加权一致率为 89.35%。</p><div class="tag-list"><span>Bayesian Networks</span><span>Computational Biology</span><span>Markov Chains</span></div></article>
-  <article class="portfolio-card featured"><h3><a href="../projects/chronic-care/">慢病诊疗路径与风险建模</a></h3><p>从约 768 万条脱敏就诊记录中重构 65,705 条路径，并建立时间切分的急性事件模型；PR-AUC 为 0.187，而事件率基线为 0.061。</p><div class="tag-list"><span>Healthcare Analytics</span><span>LightGBM</span><span>Longitudinal Data</span></div></article>
-  <article class="portfolio-card featured"><h3><a href="../projects/credit-risk/">个人信用违约风险建模</a></h3><p>独立完成并发表五类模型的统一比较，使用约 15 万条借款人记录；随机森林 ROC-AUC 达到 0.8391，研究重点关注类别不平衡与风险权衡。</p><div class="tag-list"><span>Credit Risk</span><span>Imbalanced Learning</span><span>Publication</span></div></article>
-  <article class="portfolio-card"><h3><a href="../projects/ab-testing/">小样本 A/B 测试系统</a></h3><p>设计“自适应主分流 + 独立随机验证”双流框架，并加入置信度收缩与历史先验迁移；为公开发明专利申请 202511997982.0 的第一发明人。</p><div class="tag-list"><span>A/B Testing</span><span>Statistical Inference</span><span>Patent</span></div></article>
-  <article class="portfolio-card featured"><h3><a href="../projects/xiangchan/">乡产 AI 运营平台</a></h3><p>负责并开发 Node.js 决策支持平台，将零散乡产信息转化为带来源、风险检查和人工确认的运营材料，支持离线兜底并包含 22 项自动化测试。</p><div class="tag-list"><span>AI Workflow</span><span>Node.js</span><span>Human in the Loop</span></div></article>
-  <article class="portfolio-card"><h3><a href="../projects/safetrace/">SafeTrace 资产安全原型</a></h3><p>围绕电动车、行李和高价值资产设计交互原型，通过轨迹、电子围栏、SOS、设备状态和事件日志提供可解释的响应提示。</p><div class="tag-list"><span>JavaScript</span><span>Geofencing</span><span>Risk Management</span></div></article>
+<div class="evidence-band" aria-label="作品集概览">
+  <div class="evidence-item"><strong>121</strong><span>个 ENCODE 数据集用于计算生物学研究</span></div>
+  <div class="evidence-item"><strong>768 万</strong><span>条纵向医疗就诊记录完成分析</span></div>
+  <div class="evidence-item"><strong>1 篇论文</strong><span>以独立研究者、第一兼通讯作者发表</span></div>
+  <div class="evidence-item"><strong>1 项专利</strong><span>以第一发明人公开申请</span></div>
 </div>
 
-## 实习与应用经历
+<section class="home-section">
+  <div class="section-shell">
+    <div class="section-heading">
+      <div><p class="section-kicker">能力范围</p><h2>四类相互连接的工作</h2></div>
+      <p>作品集围绕四类反复出现的能力组织：统计推理、可靠计算、领域分析，以及把分析转化为清晰决策。每个项目页面均说明问题、本人角色、方法、结果与成果。</p>
+    </div>
+    <div class="capability-grid">
+      <article class="capability-card"><div class="capability-mark"></div><h3>统计学基础</h3><p>贝叶斯网络、非参数推断、时间序列、实验设计、Bootstrap、校准与模型诊断。</p></article>
+      <article class="capability-card"><div class="capability-mark"></div><h3>机器学习与数据</h3><p>数据流程、非平衡分类、自然语言处理、聚类、特征设计、时间验证与可复现评估。</p></article>
+      <article class="capability-card"><div class="capability-mark"></div><h3>生物医学分析</h3><p>计算生物学、纵向医疗数据、多模态神经科学测量、生物图像质控与健康结局研究。</p></article>
+      <article class="capability-card"><div class="capability-mark"></div><h3>决策与系统</h3><p>自适应实验、风险流程、可追溯检索、商业分析与保留人工复核的决策支持工具。</p></article>
+    </div>
+  </div>
+</section>
 
-<div class="portfolio-grid">
-  <article class="portfolio-card"><h3><a href="../projects/internships/cibr/">北京脑科学与类脑研究所</a></h3><p>参与多模态单神经元研究，连接功能成像、三维显微图像和 EASI-FISH 测量，完成信号质控、ROI-gene 矩阵与探索性聚类。</p><div class="tag-list"><span>Neuroscience</span><span>Bioimage Informatics</span><span>Clustering</span></div></article>
-  <article class="portfolio-card"><h3><a href="../projects/internships/huaneng/">华能投资管理有限公司</a></h3><p>完成能源行业研究、问卷统计、可追溯投研检索原型，以及覆盖四个板块和 31 个行业的 472 个 A 股 IPO 分析。</p><div class="tag-list"><span>Energy Finance</span><span>RAG</span><span>Statistical Analysis</span></div></article>
-  <article class="portfolio-card"><h3><a href="../projects/internships/trs/">拓尔思信息技术</a></h3><p>使用 SQL 整合销售、产品、地区和目标表，并独立搭建 FineBI 看板；项目数据包含 137,913 件销量和约 1,800.94 万元销售额。</p><div class="tag-list"><span>SQL</span><span>FineBI</span><span>Business Intelligence</span></div></article>
-  <article class="portfolio-card"><h3><a href="../projects/internships/dadong/">沈阳市大东区统计局</a></h3><p>参与企业经营与固定资产投资监测，完成跨期核验、增长与贡献分析、登记材料检查和 Excel 监测台账维护。</p><div class="tag-list"><span>Official Statistics</span><span>Excel</span><span>Data Validation</span></div></article>
-</div>
+<section id="work" class="home-section">
+  <div class="section-shell">
+    <div class="section-heading">
+      <div><p class="section-kicker">科研与创新</p><h2>代表项目</h2></div>
+      <p>以下项目在方法深度、数据规模、个人责任和可核验成果方面最具代表性。</p>
+    </div>
+    <p class="card-hint">点击任意卡片可查看完整项目记录。</p>
+    <div class="portfolio-grid">
+      <article class="portfolio-card featured"><div class="card-topline"><span class="eyebrow">计算生物学</span><span class="card-note">主要研究者</span></div><h3><a href="../projects/dna-methylation/">DNA 甲基化贝叶斯结构学习</a></h3><p class="card-metric">121 个数据集 · 约 1587 万次结构评分 · 461,271 对窗口</p><p>建立 CpG 三元组局部结构学习流程，区分等价类结构一致性与因果解释，并连接贝叶斯网络和甲基化状态转移模型。</p><div class="tag-list"><span>Bayesian Networks</span><span>Markov Chains</span><span>Python</span></div></article>
+      <article class="portfolio-card featured"><div class="card-topline"><span class="eyebrow">医疗分析</span><span class="card-note">两项竞赛奖项</span></div><h3><a href="../projects/chronic-care/">慢病诊疗路径风险建模</a></h3><p class="card-metric">768 万条就诊记录 · 65,705 条路径 · PR-AUC 0.187</p><p>重构纵向诊疗序列，建立经过时间验证的急性事件模型，并进行校准、亚组检查和诊疗路径特征解释。</p><div class="tag-list"><span>Longitudinal Data</span><span>LightGBM</span><span>Calibration</span></div></article>
+      <article class="portfolio-card featured"><div class="card-topline"><span class="eyebrow">金融风险</span><span class="card-note">独著论文</span></div><h3><a href="../projects/credit-risk/">个人信用违约风险建模</a></h3><p class="card-metric">约 15 万条记录 · 五类模型 · ROC-AUC 0.8391</p><p>在严重类别不平衡下完成防止数据泄漏的统一比较，并讨论识别违约者与误判低风险借款人之间的实际权衡。</p><div class="tag-list"><span>Imbalanced Learning</span><span>Model Comparison</span><span>Publication</span></div></article>
+      <article class="portfolio-card featured"><div class="card-topline"><span class="eyebrow">实验系统</span><span class="card-note">第一发明人</span></div><h3><a href="../projects/ab-testing/">小样本 A/B 测试系统</a></h3><p class="card-metric">自适应分流 · 独立随机验证</p><p>面向小样本和冷启动实验设计双流框架，加入置信度收缩和历史先验迁移。</p><div class="tag-list"><span>A/B Testing</span><span>Statistical Inference</span><span>Patent</span></div></article>
+      <article class="portfolio-card"><div class="card-topline"><span class="eyebrow">应用型 AI</span><span class="card-note">北京市一等奖</span></div><h3><a href="../projects/xiangchan/">乡产 AI 运营平台</a></h3><p class="card-metric">22 项自动化测试 · 5 个模拟产品案例</p><p>开发 Node.js 平台，将零散乡产信息转化为带来源、可复核的运营材料，并加入风险检查与离线兜底。</p><div class="tag-list"><span>Node.js</span><span>Traceability</span><span>Human Review</span></div></article>
+      <article class="portfolio-card"><div class="card-topline"><span class="eyebrow">风险系统</span><span class="card-note">省市级优秀结项</span></div><h3><a href="../projects/safetrace/">SafeTrace 资产安全系统</a></h3><p class="card-metric">三类场景 · 轨迹、围栏、SOS 与设备事件</p><p>将定位器概念扩展为“感知—判断—响应”决策原型，用于电动车、行李和高价值资产场景。</p><div class="tag-list"><span>JavaScript</span><span>Geofencing</span><span>Decision Support</span></div></article>
+    </div>
+  </div>
+</section>
 
-## 代表性课程项目
+<section id="experience" class="home-section">
+  <div class="section-shell">
+    <div class="section-heading"><div><p class="section-kicker">应用经历</p><h2>科研与行业环境</h2></div><p>四段实习分别体现科学信号质控、投资研究、商业智能核验和政府统计数据验证。</p></div>
+    <div class="experience-list">
+      <article class="experience-card"><div><p class="experience-meta">2026.08–10 · 科研</p><h3><a href="../projects/internships/cibr/">北京脑科学与类脑研究所</a></h3></div><p>连接功能成像、三维显微图像和 EASI-FISH 测量，完成 z-stack 复核、荧光点修正、ROI–gene 矩阵构建和探索性聚类。</p></article>
+      <article class="experience-card"><div><p class="experience-meta">2025.07–09 · 投研</p><h3><a href="../projects/internships/huaneng/">华能投资管理有限公司</a></h3></div><p>完成能源行业研究、内部大模型采用情况分析、可追溯检索原型，以及覆盖四个板块的 472 个 A 股 IPO 分析。</p></article>
+      <article class="experience-card"><div><p class="experience-meta">2025.02–03 · 商业智能</p><h3><a href="../projects/internships/trs/">拓尔思信息技术</a></h3></div><p>使用 SQL 整合销售数据、核验业务指标，并独立搭建覆盖产品、地区、折扣和目标完成率的 FineBI 看板。</p></article>
+      <article class="experience-card"><div><p class="experience-meta">2024.06–08 · 政府统计</p><h3><a href="../projects/internships/dadong/">沈阳市大东区统计局</a></h3></div><p>通过跨期核验、增长与贡献分析、材料检查和监测台账，处理企业经营与固定资产投资数据。</p></article>
+    </div>
+  </div>
+</section>
 
-<div class="portfolio-grid">
-  <article class="portfolio-card"><h3><a href="../projects/sp500-sentiment/">金融新闻情绪与 S&P 500</a></h3><p>使用时间切分、阈值扫描、交易成本、市场阶段和回测评估情绪信号；最佳平衡准确率为 51.4%，结论保持谨慎。</p><div class="tag-list"><span>Financial NLP</span><span>XGBoost</span><span>Backtesting</span></div></article>
-  <article class="portfolio-card"><h3><a href="../projects/us-inflation/">美国通胀与宏观因素</a></h3><p>基于 298 个月度观测完成可复现 FRED 时间序列研究，包含 AR(3)、HAC 推断、诊断、疫情后分析与多组稳健性检验。</p><div class="tag-list"><span>Time Series</span><span>Econometrics</span><span>FRED</span></div></article>
-  <article class="portfolio-card"><h3><a href="../projects/sleep-health/">睡眠、压力与生活方式</a></h3><p>针对 374 条含有序量表、重复值和非正态分布的记录，使用秩检验、精确推断、多重校正和非参数平滑。</p><div class="tag-list"><span>Nonparametric Statistics</span><span>Health Data</span><span>Python</span></div></article>
-</div>
+<section id="coursework" class="home-section">
+  <div class="section-shell">
+    <div class="section-heading"><div><p class="section-kicker">代表性课程项目</p><h2>用真实数据检验方法</h2></div><p>仅收录能够核验研究问题、分析设计、结果和最终成果的课程项目。</p></div>
+    <div class="portfolio-grid">
+      <article class="portfolio-card"><div class="card-topline"><span class="eyebrow">金融 NLP</span></div><h3><a href="../projects/sp500-sentiment/">金融新闻情绪与 S&amp;P 500</a></h3><p class="card-metric">18,153 条清洗后新闻 · 3,506 个交易日观测</p><p>使用时间切分、阈值扫描、交易成本、市场阶段和收益基准评估次日预测信号，并以稳定性而非单次最佳回测作为结论依据。</p><div class="tag-list"><span>NLP</span><span>XGBoost</span><span>Backtesting</span></div></article>
+      <article class="portfolio-card"><div class="card-topline"><span class="eyebrow">计量经济学</span></div><h3><a href="../projects/us-inflation/">美国通胀与宏观因素</a></h3><p class="card-metric">298 个月度观测 · AR(3) · HAC 推断</p><p>建立可复现 FRED 时间序列研究，处理日历月份间隔并完成诊断、疫情后分析和多组稳健性检验。</p><div class="tag-list"><span>Time Series</span><span>FRED</span><span>Diagnostics</span></div></article>
+      <article class="portfolio-card"><div class="card-topline"><span class="eyebrow">非参数统计</span></div><h3><a href="../projects/sleep-health/">睡眠、压力与生活方式</a></h3><p class="card-metric">374 条记录 · 秩方法与精确方法</p><p>针对有序、重复和非正态数据，使用符号、Mann–Whitney、Kruskal–Wallis、Dunn–Holm、Spearman、Fisher、KDE 与非参数平滑。</p><div class="tag-list"><span>Rank Tests</span><span>Health Data</span><span>Python</span></div></article>
+      <article class="portfolio-card"><div class="card-topline"><span class="eyebrow">文本与客户分析</span></div><h3><a href="../projects/yelp-sentiment/">图森 Yelp 评论情绪分析</a></h3><p class="card-metric">2,000 条评论 · 134 名重复评论者 · 4 个聚类</p><p>分析评论情绪和匿名客户画像，同时确保公开结果不包含原始文本和用户标识符。</p><div class="tag-list"><span>VADER</span><span>Clustering</span><span>Privacy</span></div></article>
+    </div>
+  </div>
+</section>
 
-## 联系方式
+<section id="recognition" class="home-section">
+  <div class="section-shell">
+    <div class="section-heading"><div><p class="section-kicker">荣誉与领导力</p><h2>课堂之外的工作</h2></div><p>代表性荣誉涵盖研究洞察、定量能力、创新实践和持续的学业表现。</p></div>
+    <div class="recognition-grid">
+      <div class="recognition-panel"><h3>代表性荣誉</h3><ul class="recognition-list">
+        <li><time>2026</time><span>ASA DataFest，Best Insight Award</span></li>
+        <li><time>2026</time><span>第十二届全国大学生统计建模大赛，北京赛区本科生组二等奖</span></li>
+        <li><time>2026</time><span>“挑战杯”首都大学生创业计划竞赛，北京市一等奖</span></li>
+        <li><time>2026</time><span>厚朴奖章，首都经济贸易大学统计与数据科学学院最高荣誉</span></li>
+        <li><time>2025</time><span>校长奖学金提名奖，首都经济贸易大学最高校级荣誉</span></li>
+        <li><time>2025</time><span>中国“AI+”创新创业大赛，全国一等奖</span></li>
+        <li><time>2024</time><span>全国大学生数学竞赛全国三等奖、北京市大学生数学竞赛一等奖</span></li>
+      </ul></div>
+      <aside class="leadership-panel"><p class="section-kicker">领导经历</p><h3>学生会执行主席</h3><p>负责首都经济贸易大学统计与数据科学学院学生会工作，统筹学术和迎新活动，累计服务近 1,000 名学生。</p><h3>篮球队队长</h3><p>带队获得队史最佳的校院杯第三名，并入选全明星阵容。</p></aside>
+    </div>
+  </div>
+</section>
 
-[haonanli27@163.com](mailto:haonanli27@163.com)
+<section class="home-section">
+  <div class="section-shell">
+    <div class="section-heading"><div><p class="section-kicker">技术工具</p><h2>方法与实现</h2></div><p>工具按其在项目中的作用组织，而不是简单罗列关键词。</p></div>
+    <div class="toolkit">
+      <div class="tool-group"><strong>编程与数据</strong><span>Python、R、SQL、JavaScript、Node.js、NumPy、pandas、scikit-learn、LightGBM、SQLite</span></div>
+      <div class="tool-group"><strong>统计与机器学习</strong><span>贝叶斯网络、聚类、非平衡分类、Bootstrap、校准、SHAP、时间序列推断</span></div>
+      <div class="tool-group"><strong>科研与应用</strong><span>Napari、Fiji、Haystack、Ollama、Whisper、SPSS、FineBI、Excel、Git、LaTeX</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="home-section">
+  <div class="section-shell"><div class="contact-panel"><div><h2>项目详情与公开材料</h2><p>各项目页面展示方法、结果、角色说明及可公开成果。</p></div><div class="hero-actions"><a class="button button-primary" href="https://github.com/haonan-li-source">打开 GitHub</a><a class="button button-secondary" href="mailto:haonanli27@163.com">联系我</a></div></div></div>
+</section>

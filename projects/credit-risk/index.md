@@ -9,6 +9,8 @@ title: Personal Credit Default Risk Modeling
 
 <div class="project-meta"><strong>Role:</strong> Independent researcher, sole author, and corresponding author &nbsp; · &nbsp; <strong>Scale:</strong> 150,000 records</div>
 
+<div class="project-actions"><a class="button" href="https://github.com/haonan-li-source/personal-credit-default-risk-modeling">View GitHub repository</a><a class="button" href="https://doi.org/10.1051/itmconf/20258001016">Read published paper</a></div>
+
 ## Research question
 
 Only 6.68% of records in the study were defaults, so accuracy alone could hide poor detection of high-risk borrowers. I compared five classifiers on a common test set and examined how model choice changed ranking performance, minority-class recall, precision, and F1.

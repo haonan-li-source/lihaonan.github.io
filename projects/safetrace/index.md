@@ -7,7 +7,9 @@ title: SafeTrace Asset Security Platform
 
 # SafeTrace Asset Security Decision Support
 
-<div class="project-meta"><strong>Role:</strong> Technical lead; led the later intelligent-agent prototype adaptation &nbsp; · &nbsp; <strong>Format:</strong> interactive JavaScript prototype</div>
+<div class="project-meta"><strong>Role:</strong> Technical lead; led the later intelligent-agent prototype adaptation &nbsp; · &nbsp; <strong>Recognition:</strong> Provincial outstanding entrepreneurship project and RMB 15,000 university grant</div>
+
+<div class="project-actions"><a class="button" href="https://github.com/haonan-li-source/safetrace-asset-security-platform">View repository and prototype</a></div>
 
 ## Problem
 

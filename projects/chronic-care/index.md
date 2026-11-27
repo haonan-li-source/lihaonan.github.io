@@ -9,6 +9,8 @@ title: Chronic Care Pathway Risk Modeling
 
 <div class="project-meta"><strong>Role:</strong> Project lead and chief data analyst &nbsp; · &nbsp; <strong>Scale:</strong> 7.68M encounters &nbsp; · &nbsp; <strong>Focus:</strong> longitudinal risk modeling</div>
 
+<div class="project-actions"><a class="button" href="https://github.com/haonan-li-source/chronic-care-pathway-risk-modeling">View repository and award evidence</a></div>
+
 ## Research question
 
 Long gaps in care are often treated as empty intervals. This project tested whether an interruption longer than 90 days could instead serve as a useful signal of later acute care. It progressed from sequence-based patient segmentation to prediction of unplanned emergency or inpatient events after the first month of a disease-specific pathway.

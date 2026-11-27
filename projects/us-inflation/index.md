@@ -9,6 +9,8 @@ title: U.S. Inflation and Monetary Policy
 
 <div class="project-meta"><strong>Role:</strong> Independent course project &nbsp; · &nbsp; <strong>Sample:</strong> 298 monthly observations &nbsp; · &nbsp; <strong>Source:</strong> FRED</div>
 
+<div class="project-actions"><a class="button" href="https://github.com/haonan-li-source/us-inflation-fred-analysis">View reproducible repository</a></div>
+
 ## Research question
 
 This study examines how U.S. inflation co-moves with monetary, labor-market, energy-price, and real-activity indicators from 2000 through May 2026. The design emphasizes inflation persistence, post-pandemic shifts, time-series diagnostics, and robustness rather than treating conditional associations as causal effects.

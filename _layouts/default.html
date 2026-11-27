@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="{% if page.url contains '/zh/' %}zh-CN{% else %}en{% endif %}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#0d2436">
+    <meta name="description" content="{{ page.description | default: site.description | escape }}">
+    <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+    <meta property="og:description" content="{{ page.description | default: site.description | escape }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='15' fill='%230d2436'/%3E%3Cpath d='M17 17h8v12h14V17h8v30h-8V36H25v11h-8z' fill='%23fff'/%3E%3C/svg%3E">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body class="{% if page.url == '/' or page.url == '/zh/' %}home-page{% else %}detail-page{% endif %}">
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="site-header">
+      <div class="nav-shell">
+        <a class="brand" href="{{ '/' | relative_url }}" aria-label="Haonan Li portfolio home">
+          <span class="brand-mark">HL</span>
+          <span class="brand-name">Haonan Li</span>
+        </a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+        <nav id="site-nav" class="site-nav" aria-label="Primary navigation">
+          <a href="{% if page.url contains '/zh/' %}{{ '/zh/#work' | relative_url }}{% else %}{{ '/#work' | relative_url }}{% endif %}">Work</a>
+          <a href="{% if page.url contains '/zh/' %}{{ '/zh/#experience' | relative_url }}{% else %}{{ '/#experience' | relative_url }}{% endif %}">Experience</a>
+          <a href="{% if page.url contains '/zh/' %}{{ '/zh/#coursework' | relative_url }}{% else %}{{ '/#coursework' | relative_url }}{% endif %}">Coursework</a>
+          <a href="{% if page.url contains '/zh/' %}{{ '/zh/#recognition' | relative_url }}{% else %}{{ '/#recognition' | relative_url }}{% endif %}">Recognition</a>
+          <a href="https://github.com/haonan-li-source">GitHub</a>
+          {% if page.url contains '/zh/' %}
+            <a class="language-link" href="{{ '/' | relative_url }}">EN</a>
+          {% else %}
+            <a class="language-link" href="{{ '/zh/' | relative_url }}">中文</a>
+          {% endif %}
+        </nav>
+      </div>
+    </header>
+
+    <main id="main-content" class="site-main">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-shell">
+        <div>
+          <strong>Haonan Li</strong>
+          <p>Statistics at CUEB · Data Science at the University of Arizona</p>
+        </div>
+        <div class="footer-links">
+          <a href="mailto:haonanli27@163.com">Email</a>
+          <a href="https://github.com/haonan-li-source">GitHub</a>
+          <span>Maintained by <a href="https://github.com/haonan-li-source">haonan-li-source</a></span>
+        </div>
+      </div>
+    </footer>
+    <script src="{{ '/assets/js/main.js' | relative_url }}" defer></script>
+  </body>
+</html>

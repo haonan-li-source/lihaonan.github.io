@@ -9,6 +9,8 @@ title: Huaneng Investment Management Internship
 
 <div class="project-meta"><strong>Role:</strong> Investment research and data-analysis intern &nbsp; · &nbsp; <strong>Period:</strong> Jul–Sep 2025</div>
 
+<div class="project-actions"><a class="button" href="https://github.com/haonan-li-source/selected-internship-case-studies">View public case-study boundary</a></div>
+
 ## Business context
 
 The internship combined sector research and quantitative analysis for energy-related investment work. Assignments covered photovoltaics, grid-forming energy storage, humanoid robotics, organizational use of large language models, document retrieval, and A-share IPO pricing and return analysis.

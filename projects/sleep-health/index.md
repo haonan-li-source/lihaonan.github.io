@@ -9,6 +9,8 @@ title: Sleep, Stress, and Health
 
 <div class="project-meta"><strong>Format:</strong> Team course project &nbsp; · &nbsp; <strong>Sample:</strong> 374 records &nbsp; · &nbsp; <strong>Focus:</strong> distribution-free inference</div>
 
+<div class="project-actions"><a class="button" href="https://github.com/haonan-li-source/nonparametric-sleep-health">View code, report, and slides</a></div>
+
 ## Research question
 
 The project examines relationships among sleep duration, sleep disorders, stress, physical activity, and lifestyle measures. Because stress is ordinal, several variables contain many ties, and distributions depart from normality, the analysis uses rank-based and distribution-free methods.

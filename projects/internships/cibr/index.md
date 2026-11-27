@@ -9,6 +9,8 @@ title: Chinese Institute for Brain Research Internship
 
 <div class="project-meta"><strong>Role:</strong> Research intern &nbsp; · &nbsp; <strong>Period:</strong> Aug–Oct 2026 &nbsp; · &nbsp; <strong>Focus:</strong> multimodal single-neuron analysis</div>
 
+<div class="project-actions"><a class="button" href="https://github.com/haonan-li-source/selected-internship-case-studies">View public case-study boundary</a></div>
+
 ## Research context
 
 The study examined whether the molecular identity of individual neurons is associated with their functional responses to stimuli. The workflow linked measurements from the same neurons across in vivo GCaMP imaging, ex vivo and post-expansion three-dimensional microscopy, and EASI-FISH gene-expression measurements.
