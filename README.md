@@ -2,7 +2,7 @@
 
 # Haonan Li
 
-Undergraduate majoring in Statistics at Capital University of Economics and Business and Data Science at the University of Arizona. I work across statistical modeling, machine learning, and data systems, with projects in biomedical and health data, computational biology, financial and business analytics, decision analysis and systems engineering, and applied AI products.
+Undergraduate majoring in Data Science at the University of Arizona and Statistics at Capital University of Economics and Business. I work across statistical modeling, machine learning, and data systems, with projects in biomedical and health data, computational biology, financial and business analytics, decision analysis and systems engineering, and applied AI products.
 
 ## Research, publications, and innovation
 

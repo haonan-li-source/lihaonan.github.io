@@ -9,7 +9,7 @@ description: Selected research, engineering, and applied analysis in statistics,
     <div>
       <p class="section-kicker">Quantitative work across statistics, computing, and applied research</p>
       <h1>Haonan Li</h1>
-      <p class="hero-lead">I study Statistics at Capital University of Economics and Business and Data Science at the University of Arizona. My projects use quantitative methods to answer concrete questions in biology, health care, finance, experimentation, and operations. This site documents the methods, results, and public materials behind that work.</p>
+      <p class="hero-lead">I study Data Science at the University of Arizona and Statistics at Capital University of Economics and Business. My projects use quantitative methods to answer concrete questions in biology, health care, finance, experimentation, and operations. This site documents the methods, results, and public materials behind that work.</p>
       <div class="hero-actions">
         <a class="button button-primary" href="#work">Explore selected work</a>
         <a class="button button-secondary" href="https://github.com/haonan-li-source">View GitHub</a>
@@ -17,8 +17,8 @@ description: Selected research, engineering, and applied analysis in statistics,
       </div>
     </div>
     <aside class="credential-panel" aria-label="Academic profile">
-      <div class="credential-item"><span>Capital University of Economics and Business</span><strong>B.S. Statistics · GPA 4.27/5.00</strong><em>Ranked second in the major</em></div>
       <div class="credential-item"><span>University of Arizona</span><strong>B.S. Data Science · GPA 4.00/4.00</strong><em>Ranked first in the major</em></div>
+      <div class="credential-item"><span>Capital University of Economics and Business</span><strong>B.S. Statistics · GPA 4.27/5.00</strong><em>Ranked second in the major</em></div>
     </aside>
   </div>
 </section>

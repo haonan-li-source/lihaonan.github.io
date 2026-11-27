@@ -9,7 +9,7 @@ description: 统计学、数据科学、生物医学数据、决策系统与负�
     <div>
       <p class="section-kicker">统计、计算与应用研究中的定量实践</p>
       <h1>李昊男</h1>
-      <p class="hero-lead">我在首都经济贸易大学学习统计学，同时在亚利桑那大学学习数据科学。我的项目以定量方法回答生物、医疗、金融、实验和运营中的具体问题。本网站记录这些工作的研究方法、结果与可公开材料。</p>
+      <p class="hero-lead">我在亚利桑那大学学习数据科学，同时在首都经济贸易大学学习统计学。我的项目以定量方法回答生物、医疗、金融、实验和运营中的具体问题。本网站记录这些工作的研究方法、结果与可公开材料。</p>
       <div class="hero-actions">
         <a class="button button-primary" href="#work">查看代表项目</a>
         <a class="button button-secondary" href="https://github.com/haonan-li-source">查看 GitHub</a>
@@ -17,8 +17,8 @@ description: 统计学、数据科学、生物医学数据、决策系统与负�
       </div>
     </div>
     <aside class="credential-panel" aria-label="学业背景">
-      <div class="credential-item"><span>首都经济贸易大学</span><strong>统计学学士 · GPA 4.27/5.00</strong><em>专业排名第二</em></div>
       <div class="credential-item"><span>亚利桑那大学</span><strong>数据科学学士 · GPA 4.00/4.00</strong><em>专业排名第一</em></div>
+      <div class="credential-item"><span>首都经济贸易大学</span><strong>统计学学士 · GPA 4.27/5.00</strong><em>专业排名第二</em></div>
     </aside>
   </div>
 </section>
