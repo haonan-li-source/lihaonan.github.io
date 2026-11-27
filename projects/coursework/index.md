@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Selected Coursework
+title: Selected Course Projects
 ---
 
 [← Portfolio](../../)
 
-# Selected Coursework
+# Selected Course Projects
 
 <div class="portfolio-grid">
   <article class="portfolio-card"><h3><a href="../sp500-sentiment/">Financial News Sentiment and the S&P 500</a></h3><p>Time-aware evaluation of financial sentiment, market prediction, robustness, and backtesting.</p><div class="tag-list"><span>Financial NLP</span><span>Backtesting</span></div></article>

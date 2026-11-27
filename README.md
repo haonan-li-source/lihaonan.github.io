@@ -20,7 +20,7 @@ Undergraduate majoring in Statistics at Capital University of Economics and Busi
 - [TRS Information Technology](https://haonan-li-source.github.io/lihaonan.github.io/projects/internships/trs/) - SQL table integration and FineBI sales analytics.
 - [Dadong District Statistics Bureau](https://haonan-li-source.github.io/lihaonan.github.io/projects/internships/dadong/) - enterprise and investment-data validation and monitoring.
 
-## Selected coursework
+## Selected course projects
 
 - [Financial News Sentiment and the S&P 500](https://haonan-li-source.github.io/lihaonan.github.io/projects/sp500-sentiment/) - evaluated financial text signals using time-aware validation, sensitivity analysis, and backtesting.
 - [U.S. Inflation and Monetary Policy](https://haonan-li-source.github.io/lihaonan.github.io/projects/us-inflation/) - built a reproducible FRED-based time-series workflow with 298 monthly observations.

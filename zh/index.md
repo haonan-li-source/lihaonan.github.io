@@ -77,7 +77,7 @@ description: 统计学、数据科学、生物医学数据、决策系统与负�
 
 <section id="coursework" class="home-section">
   <div class="section-shell">
-    <div class="section-heading"><div><p class="section-kicker">代表性课程项目</p><h2>用真实数据检验方法</h2></div><p>仅收录能够核验研究问题、分析设计、结果和最终成果的课程项目。</p></div>
+    <div class="section-heading"><div><p class="section-kicker">精选课程项目</p><h2>用真实数据检验方法</h2></div><p>仅收录能够核验研究问题、分析设计、结果和最终成果的课程项目。</p></div>
     <div class="portfolio-grid">
       <article class="portfolio-card"><div class="card-topline"><span class="eyebrow">金融 NLP</span></div><h3><a href="../projects/sp500-sentiment/">金融新闻情绪与 S&amp;P 500</a></h3><p class="card-metric">18,153 条清洗后新闻 · 3,506 个交易日观测</p><p>使用时间切分、阈值扫描、交易成本、市场阶段和收益基准评估次日预测信号，并以稳定性而非单次最佳回测作为结论依据。</p><div class="tag-list"><span>NLP</span><span>XGBoost</span><span>Backtesting</span></div></article>
       <article class="portfolio-card"><div class="card-topline"><span class="eyebrow">计量经济学</span></div><h3><a href="../projects/us-inflation/">美国通胀与宏观因素</a></h3><p class="card-metric">298 个月度观测 · AR(3) · HAC 推断</p><p>建立可复现 FRED 时间序列研究，处理日历月份间隔并完成诊断、疫情后分析和多组稳健性检验。</p><div class="tag-list"><span>Time Series</span><span>FRED</span><span>Diagnostics</span></div></article>

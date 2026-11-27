@@ -81,7 +81,7 @@ description: Selected research, engineering, and applied analysis in statistics,
 <section id="coursework" class="home-section">
   <div class="section-shell">
     <div class="section-heading">
-      <div><p class="section-kicker">Selected coursework</p><h2>Methods tested on real data</h2></div>
+      <div><p class="section-kicker">Selected course projects</p><h2>Methods tested on real data</h2></div>
       <p>Course projects are included only when the archive supports the research question, analytical design, results, and a reproducible or inspectable final artifact.</p>
     </div>
     <div class="portfolio-grid">
