@@ -27,7 +27,7 @@ description: Selected research, engineering, and applied analysis in statistics,
   <div class="evidence-item"><strong>10</strong><span>selected research, innovation, and course projects</span></div>
   <div class="evidence-item"><strong>4</strong><span>research and industry internships</span></div>
   <div class="evidence-item"><strong>1 paper</strong><span>published as sole and corresponding author</span></div>
-  <div class="evidence-item"><strong>1 patent</strong><span>published application as first-named inventor</span></div>
+  <div class="evidence-item"><strong>1 patent application</strong><span>first-named inventor</span></div>
 </div>
 
 <section class="home-section">
