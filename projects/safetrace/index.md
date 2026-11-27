@@ -1,0 +1,37 @@
+---
+layout: default
+title: SafeTrace Asset Security Platform
+---
+
+[← Portfolio](../../)
+
+# SafeTrace Asset Security Decision Support
+
+<div class="project-meta"><strong>Role:</strong> Technical lead; led the later intelligent-agent prototype adaptation &nbsp; · &nbsp; <strong>Format:</strong> interactive JavaScript prototype</div>
+
+## Problem
+
+Asset-tracking products often stop at showing a location. SafeTrace explores the next decision layer: how asset type, route, geofence status, device health, time context, and emergency events can be organized into an understandable risk explanation and response prompt.
+
+## Prototype design
+
+- Three interactive scenarios for an electric bicycle, transport/luggage, and a high-value asset.
+- Route replay, electronic-geofence events, and SOS triggers.
+- Device-status monitoring for battery, connectivity, and signal state.
+- Structured event logs and scenario switching.
+- Scenario-based low, medium-low, and medium risk levels with reasons and recommended actions.
+- Privacy and authorization reminders alongside location-based functions.
+
+## My contribution
+
+I was responsible for the product-technology direction and prototype maintenance in the original entrepreneurship-training project. I later led the intelligent-agent competition adaptation, including webpage interaction, simulated scenarios, route playback, geofence and SOS events, status logs, and explainable response prompts.
+
+## Challenge and solution
+
+An early tracker concept did not clearly show decision value. I reorganized the prototype around a complete sense–assess–respond flow. Simulated routes and events make each step visible, while rule-based explanations show why the interface assigns a risk level and what the user should do next.
+
+## View the prototype
+
+Open the static `index.html` file in a modern browser. No build step or external service is required.
+
+<div class="tag-list"><span>Asset Tracking</span><span>Risk Management</span><span>JavaScript</span><span>Geofencing</span><span>IoT Prototype</span></div>
