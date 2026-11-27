@@ -27,7 +27,7 @@ description: 统计学、数据科学、生物医学数据、决策系统与负�
   <div class="evidence-item"><strong>10 项</strong><span>代表性科研、创新与课程项目</span></div>
   <div class="evidence-item"><strong>4 段</strong><span>科研及行业实习经历</span></div>
   <div class="evidence-item"><strong>1 篇论文</strong><span>以独立研究者、第一兼通讯作者发表</span></div>
-  <div class="evidence-item"><strong>1 项专利申请</strong><span>第一发明人</span></div>
+  <div class="evidence-item"><strong>1 项已公开专利申请</strong><span>第一发明人</span></div>
 </div>
 
 <section class="home-section">
