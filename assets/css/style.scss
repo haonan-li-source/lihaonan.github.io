@@ -150,7 +150,7 @@ th { background: var(--paper-blue); }
 .course-card > strong { position: absolute; right: 2.7rem; bottom: 2rem; left: 0; color: var(--teal-700); font-size: .76rem; }
 .course-card:nth-child(even) > strong { right: 0; left: 2.7rem; }
 
-.recognition-section { color: rgba(255,255,255,.76); background: var(--navy-950); }
+.recognition-section { color: rgba(255,255,255,.76); background: var(--navy-900); }
 .recognition-section h2, .recognition-section h3 { color: #fff; }
 .recognition-section .section-kicker, .recognition-section .panel-label { color: #78c6c2; }
 .recognition-summary { display: grid; grid-template-columns: 1.08fr .92fr; gap: 7rem; align-items: end; padding-bottom: 4rem; border-bottom: 1px solid var(--line-dark); }
