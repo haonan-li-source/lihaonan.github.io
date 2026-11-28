@@ -93,7 +93,7 @@ description: Selected research, internships, and applied projects in statistics,
       <article class="research-card">
         <div class="card-topline"><span class="eyebrow">Risk systems</span><span class="card-note">Provincial outstanding project</span></div>
         <h3><a href="./projects/safetrace/">SafeTrace Asset Security</a></h3>
-        <p class="card-metric">Three scenarios · route, geofence, SOS, and device events</p>
+        <p class="card-metric">Three application scenarios · RMB 15,000 university entrepreneurship grant</p>
         <p>Turned a tracking concept into an explainable sense–assess–respond prototype for e-bikes, luggage, and high-value assets.</p>
         <div class="research-tags"><span>JavaScript</span><span>Geofencing</span><span>Decision support</span></div>
       </article>
