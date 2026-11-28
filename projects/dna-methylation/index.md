@@ -13,7 +13,7 @@ title: DNA Methylation Bayesian Structure Learning
 
 ## Research question
 
-DNA methylation measurements can be represented as local triplets of binary CpG states. I investigated whether a Bayesian-network structure inferred from one triplet remains coherent when the genomic window moves by one CpG site. The analysis separates local statistical compatibility from stronger claims about biological causation.
+DNA methylation measurements can be represented as local triplets of binary CpG states. I investigated whether a Bayesian-network structure inferred from one triplet remains coherent when the genomic window moves by one CpG site. This tests whether local structure is reproducible across overlapping windows rather than being determined by one arbitrary boundary. The analysis separates local statistical compatibility from stronger claims about biological causation.
 
 ## My contribution
 
@@ -36,6 +36,10 @@ Under the supervision of Prof. Pearson Antony, I designed and implemented the co
 - Pair-weighted agreement reached 89.35% for BDeu, 87.65% for BIC, and 85.26% for AIC.
 - The equal-weight dataset mean for BDeu was 87.60%.
 - Estimated local persistence included P(1→1) = 0.8369, P(0→0) = 0.3858, and stationary methylated-state probability π1 = 0.7902.
+
+## Conclusion
+
+Both weighting schemes indicate that adjacent windows usually retain compatible local dependence structures, with BDeu giving the highest agreement. The eight-state theoretical extension also shows that position exchangeability is not the same as CpG independence: without additional restrictions, the stationary joint distribution generally supports a complete three-node graph. The observed stability therefore supports local reproducibility, not a unique sparse causal network.
 
 ## Challenge and solution
 

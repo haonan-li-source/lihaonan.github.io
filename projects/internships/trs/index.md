@@ -9,7 +9,7 @@ title: TRS Information Technology Internship
 
 <div class="project-meta"><strong>Role:</strong> Data-analysis intern &nbsp; · &nbsp; <strong>Period:</strong> Feb–Mar 2025 &nbsp; · &nbsp; <strong>Tools:</strong> SQL and FineBI</div>
 
-<div class="project-actions"><a class="button" href="https://github.com/haonan-li-source/selected-internship-case-studies">View public case-study boundary</a></div>
+<div class="project-actions"><a class="button" href="../">Browse all internship case studies</a></div>
 
 ## Business context
 
@@ -17,9 +17,8 @@ The project turned multi-table sales records into a consistent business-intellig
 
 ## My contribution
 
-- Used SQL to join sales, product, region, and target tables.
-- Cleaned and standardized key fields before aggregation.
-- Defined and reconciled metrics for sales volume, revenue, discounts, ranking, and target attainment.
+- Used SQL to integrate sales, product, region, and target tables into a reusable business-analysis model.
+- Standardized the definitions of sales volume, revenue, discounts, and plan attainment, and added checks for missing values, duplicate records, and cross-table inconsistencies.
 - Independently built a FineBI dashboard with interactive filters and drill-downs.
 - Designed views for time trends, regional distribution, product performance, discount patterns, rankings, and plan completion.
 - Cross-checked dashboard totals against source-level aggregates and prepared the final analytical presentation.
@@ -27,6 +26,8 @@ The project turned multi-table sales records into a consistent business-intellig
 ## Scale and results
 
 The project dataset represented 137,913 units and approximately RMB 18.0094 million in sales. The final output was a multi-view FineBI dashboard supported by verified metric definitions and a presentation that received an Excellent Performance evaluation.
+
+The dashboard allowed users to filter and drill down by time, region, product, and discount to locate sales fluctuations and target gaps, supporting adjustments to sales planning rather than simply displaying summary totals.
 
 ## Challenge and solution
 

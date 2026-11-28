@@ -31,6 +31,10 @@ Only 6.68% of records in the study were defaults, so accuracy alone could hide p
 - LightGBM's F1 was approximately 54% higher than the logistic-regression result.
 - Revolving credit utilization, number of dependents, and prior delinquency behavior were among the most informative factors.
 
+## Conclusion
+
+No model dominated every criterion. Random forest provided the strongest ranking performance and high recall, while LightGBM produced the best reported F1 among the compared models. The appropriate production choice would therefore depend on the relative cost of missed defaults, unnecessary review, and incorrectly rejecting lower-risk borrowers—not on accuracy alone.
+
 ## Challenge and solution
 
 Improving default detection can also increase the number of lower-risk borrowers incorrectly flagged. I addressed this by keeping resampling inside the training set and interpreting recall, precision, F1, and ROC-AUC as a joint risk-management trade-off rather than selecting a model from one score.

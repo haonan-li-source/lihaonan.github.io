@@ -101,7 +101,7 @@ description: 统计学、数据科学、生物医学数据、金融、实验与�
         <li><time>2025</time><span><strong>全国大学生“AI+”创新创业大赛全国一等奖</strong></span></li>
         <li><time>2024</time><span><strong>全国大学生数学竞赛全国三等奖</strong><small>同时获北京市大学生数学竞赛一等奖</small></span></li>
       </ul></div>
-      <aside class="range-panel"><p class="panel-label">领导力与体育</p><div class="range-item"><h3>学生会执行主席</h3><p>领导统计与数据科学学院学生会，统筹学术与迎新活动，累计服务近 1,000 名学生。</p></div><div class="range-item"><h3>男子篮球队队长</h3><p>带领球队获 2026 年“学院杯”季军，创队史最佳成绩，并入选校级全明星阵容。</p></div><div class="range-item"><h3>400 米 · 56 秒</h3><p>获 2024 年校运会男子 400 米亚军，成绩达到国家三级运动员标准；另多次在校级 400 米与 1,500 米项目中获得名次。</p></div></aside>
+      <aside class="range-panel"><p class="panel-label">领导力与体育</p><div class="range-item"><h3>学生会执行主席</h3><p>领导统计与数据科学学院学生会，组织芳榳论坛、迎新等活动，累计覆盖近 1,000 名学生；统筹学院参加“一二九”合唱比赛并获优胜奖；在乔治梅森大学、阿尔伯塔大学等高校来访时作为学生代表参与交流。</p></div><div class="range-item"><h3>男子篮球队队长</h3><p>带领球队获 2026 年“学院杯”季军，创队史最佳成绩，并入选校级全明星阵容。</p></div><div class="range-item"><h3>400 米 · 56 秒</h3><p>获 2024 年校运会男子 400 米亚军，成绩达到国家三级运动员标准；另多次在校级 400 米与 1,500 米项目中获得名次。</p></div></aside>
     </div>
   </div>
 </section>

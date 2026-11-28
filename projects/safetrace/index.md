@@ -7,7 +7,7 @@ title: SafeTrace Asset Security Platform
 
 # SafeTrace Asset Security Decision Support
 
-<div class="project-meta"><strong>Role:</strong> Technical lead; led the later intelligent-agent prototype adaptation &nbsp; · &nbsp; <strong>Recognition:</strong> Provincial outstanding entrepreneurship project and RMB 15,000 university grant</div>
+<div class="project-meta"><strong>Role:</strong> Technical lead in a five-person team &nbsp; · &nbsp; <strong>Recognition:</strong> Provincial outstanding entrepreneurship project and RMB 15,000 university grant</div>
 
 <div class="project-actions"><a class="button" href="https://github.com/haonan-li-source/safetrace-asset-security-platform">View repository and prototype</a></div>
 
@@ -26,7 +26,11 @@ Asset-tracking products often stop at showing a location. SafeTrace explores the
 
 ## My contribution
 
-I was responsible for the product-technology direction and prototype maintenance in the original entrepreneurship-training project. I later led the intelligent-agent competition adaptation, including webpage interaction, simulated scenarios, route playback, geofence and SOS events, status logs, and explainable response prompts.
+I led the technical work and contributed across product planning, prototype architecture, scenario design, rule logic, feasibility analysis, validation, and final materials. I developed and maintained the JavaScript prototype, including webpage interaction, route replay, geofence and SOS events, device-status views, structured logs, and explainable response prompts. Schedule and financial coordination were shared within the team, with another teammate taking primary responsibility for those areas.
+
+## Result and validation boundary
+
+Three simulated scenarios verified that the prototype could carry an event from sensing through risk explanation to a recommended response. This demonstrates a complete decision-support workflow rather than a location-only mock-up. It does not establish real-world detection accuracy, hardware reliability, loss reduction, or user adoption because no live assets or customers were used.
 
 ## Challenge and solution
 

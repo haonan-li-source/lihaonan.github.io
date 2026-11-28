@@ -32,6 +32,10 @@ The curated release contains 22 automated tests covering API configuration, inta
 
 The project received First Prize in the “Qingzhi Future” special track of the “Qingchuang Beijing” 2026 “Challenge Cup” Capital University Student Entrepreneurship Plan Competition.
 
+## Evaluation and conclusion
+
+Five simulated agricultural-product cases exercised the complete intake-to-export workflow, and all 22 release tests passed. The current evidence supports workflow completeness, traceability, and failure handling. It does not yet establish time savings, sales uplift, or adoption in real cooperatives; those outcomes require a field pilot with consented users and predefined measures.
+
 ## Challenge and solution
 
 External models may time out, return incomplete JSON, or generate risky wording. I combined retry and provider-switching logic with local fallbacks, secondary content cleaning, confidence indicators, and explicit human confirmation. This keeps the workflow usable while making uncertain fields visible before export.

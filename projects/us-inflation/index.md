@@ -32,6 +32,10 @@ This study examines how U.S. inflation co-moves with monetary, labor-market, ene
 - Post-pandemic indicator coefficient: approximately 0.238.
 - Deliverables include a 16-page paper, two core Python scripts, a one-command runner, and nine traceable result tables.
 
+## Conclusion
+
+Inflation in this sample is highly persistent, WTI oil-price growth has a comparatively stable positive conditional association with year-over-year CPI inflation, and the post-pandemic period has a higher conditional intercept. Money-supply results are less stable across specifications. These findings describe conditional time-series relationships and do not identify causal effects of monetary or energy variables.
+
 ## Challenge and solution
 
 Year-over-year transformations, dynamic lags, and a missing October 2025 observation created a non-continuous monthly sequence. I matched residual lags by actual calendar month rather than treating observations on either side of the gap as adjacent, then added residual diagnostics and multiple robustness specifications.

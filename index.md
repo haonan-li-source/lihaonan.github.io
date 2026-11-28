@@ -163,7 +163,7 @@ description: Selected research, internships, and applied projects in statistics,
 
       <aside class="range-panel">
         <p class="panel-label">Leadership and athletics</p>
-        <div class="range-item"><h3>Executive President</h3><p>Led the CUEB School of Statistics and Data Science Student Union and coordinated academic and orientation events serving nearly 1,000 students in total.</p></div>
+        <div class="range-item"><h3>Executive President</h3><p>Led the CUEB School of Statistics and Data Science Student Union; organized the Fangting Forum, orientation programs, and related events reaching nearly 1,000 students; coordinated a Merit Award in the December 9 Chorus Competition; and represented students in exchanges with visiting delegations from George Mason University and the University of Alberta.</p></div>
         <div class="range-item"><h3>Basketball Team Captain</h3><p>Led the team to third place in the 2026 Faculty Cup—its best result in team history—and was selected for the university All-Star roster.</p></div>
         <div class="range-item"><h3>400 m · 56 seconds</h3><p>Runner-up at the 2024 University Sports Meet, meeting the national Level III athlete benchmark; also placed in the 400 m and 1,500 m at university meets.</p></div>
       </aside>

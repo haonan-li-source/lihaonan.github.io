@@ -33,6 +33,10 @@ The project examines relationships among sleep duration, sleep disorders, stress
 - High stress and sleep disorder: Fisher odds ratio = 6.01, p < 0.001.
 - Sleep duration and stress: Spearman ρ = -0.811.
 
+## Conclusion
+
+Shorter sleep and diagnosed sleep disorders were associated with higher stress in this observational sample, with consistent direction across group comparisons and rank correlation. The result supports further investigation of sleep and stress together, but the cross-sectional design cannot determine whether sleep changes stress, stress changes sleep, or both reflect other factors.
+
 ## Challenge and solution
 
 Discrete scales and tied observations made ordinary normal-theory comparisons inappropriate. The team matched each question to a rank or exact method, applied tie corrections and multiplicity adjustment, and interpreted effect direction and group medians alongside p-values.

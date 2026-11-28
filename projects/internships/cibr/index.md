@@ -9,7 +9,7 @@ title: Chinese Institute for Brain Research Internship
 
 <div class="project-meta"><strong>Role:</strong> Research intern &nbsp; · &nbsp; <strong>Period:</strong> Aug–Oct 2026 &nbsp; · &nbsp; <strong>Focus:</strong> multimodal single-neuron analysis</div>
 
-<div class="project-actions"><a class="button" href="https://github.com/haonan-li-source/selected-internship-case-studies">View public case-study boundary</a></div>
+<div class="project-actions"><a class="button" href="../">Browse all internship case studies</a></div>
 
 ## Research context
 
@@ -28,6 +28,10 @@ The study examined whether the molecular identity of individual neurons is assoc
 ## Scale and outputs
 
 After manual review and correction, spot identification agreed with visually verified fluorescence signals at approximately 90%–95%. The work produced corrected annotations, coordinate tables, comparison overlays, a standardized ROI-gene matrix, and an exploratory clustering workflow.
+
+## Research value and boundary
+
+The immediate result was a more reliable, traceable bridge between image-level signals and downstream cell-by-gene analysis. The clustering work was exploratory: bootstrap stability and permutation checks were used to distinguish repeatable expression patterns from sample-specific structure. Raw images, coordinate records, animal data, and unpublished biological findings remain non-public because release requires laboratory approval.
 
 ## Challenge and solution
 

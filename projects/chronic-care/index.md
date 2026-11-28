@@ -38,6 +38,10 @@ I led data integration, encounter deduplication, pathway construction, feature d
 - A separate 180-day retrospective analysis found a 10.1% acute-event rate in the interrupted-follow-up group versus 1.0% in the stable-follow-up group.
 - Received the 2026 ASA DataFest Best Insight Award and Beijing Division Second Prize in the 12th National College Student Statistical Modeling Competition.
 
+## Conclusion and decision relevance
+
+The analysis shows that a long care interruption can function as a risk signal rather than an empty interval. In this sample, it identified a small group with substantially more acute returns, while the prospective model concentrated 33.7% of later events in the highest-risk decile. The practical use is outreach prioritization and differentiated follow-up—not automated clinical decision-making—and external validation would be required before deployment.
+
 ## Challenge and solution
 
 Low prevalence and longitudinal records can produce optimistic evaluation. I used calendar-based validation, fitted preprocessing only on the training period, separated feature and outcome windows, and reported PR-AUC, Top-k capture, and calibration alongside ROC-AUC. Duplicate encounter keys were resolved before pathway construction so repeated rows would not distort utilization features.

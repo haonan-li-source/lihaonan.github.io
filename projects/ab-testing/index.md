@@ -36,6 +36,10 @@ A fully randomized design preserves comparability but may learn slowly, while a 
 
 Chinese invention patent application `202511997982.0` lists Haonan Li as the first-named inventor and was published on April 3, 2026.
 
+## Current conclusion and validation status
+
+The contribution at this stage is the separation of adaptive learning from randomized effect validation, with confidence-aware shrinkage limiting the influence of weak early signals. The public patent record establishes the design, not performance. A future simulation study should compare power, bias, regret, and stability against fixed randomization and single-stream adaptive baselines across sparse and cold-start settings.
+
 ## Outputs
 
 Published patent application, system architecture, process diagrams, allocation and validation workflow, and definitions of confidence, shrinkage, and prior transfer.

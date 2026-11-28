@@ -32,9 +32,13 @@ This project examined how review language, star ratings, and engagement signals 
 - The four-cluster solution had a silhouette score of 0.387.
 - Mean cross-validated R² was 0.092 for engagement-only features and 0.370 after adding VADER sentiment, a descriptive difference of 0.278 on this subset.
 
+## Conclusion
+
+Sentiment added useful predictive information beyond engagement counts within this course subset, and repeat reviewers formed moderately separated behavioral profiles. The improvement is descriptive rather than causal or universal: it may change with a different Tucson sample, language mix, feature set, or clustering specification.
+
 ## My contribution
 
-This was a two-person project. The submitted contribution statement records approximately 40% of the code and 60% of the poster writing and layout as my work. I contributed to the analysis, result interpretation, visual communication, and final presentation.
+This was a two-person project completed collaboratively across data preparation, analysis, interpretation, and presentation. Because the course submission required a formal division, it records approximately 40% of the code and 60% of the poster writing and layout as my primary responsibility. I also participated in the shared modeling decisions, result review, visual communication, and final integration.
 
 ## Challenge and solution
 
