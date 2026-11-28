@@ -49,93 +49,54 @@ description: Selected research, internships, and applied projects in statistics,
 <section id="work" class="home-section section-white">
   <div class="section-shell">
     <div class="section-heading">
-      <div><p class="section-kicker">Signature research</p><h2>Three projects that best represent how I work</h2></div>
-      <p>These case studies go beyond a resume line. Each one documents the research question, analytical choices, evaluation design, limitations, and inspectable outputs.</p>
+      <div><p class="section-kicker">Research and innovation</p><h2>Selected projects</h2></div>
+      <p>Six projects spanning computational biology, healthcare, finance, experimentation, applied AI, and risk systems. Each card summarizes the problem, scale, methods, and result.</p>
     </div>
 
-    <div class="signature-list">
-      <article class="signature-project">
-        <div class="signature-identity">
-          <p class="eyebrow">Computational biology · Main researcher</p>
-          <h3><a href="./projects/dna-methylation/">DNA Methylation Bayesian Structure Learning</a></h3>
-          <p>Built an exhaustive local structure-learning workflow for CpG triplets and separated equivalence-aware structural agreement from causal interpretation.</p>
-          <span class="case-link">Read the complete case study</span>
-        </div>
-        <dl class="evidence-list">
-          <div><dt>Research scale</dt><dd>121 ENCODE datasets</dd></div>
-          <div><dt>Computation</dt><dd>15.87M structure scores</dd></div>
-          <div><dt>Methods</dt><dd>Bayesian networks · Markov chains · Python</dd></div>
-        </dl>
+    <p class="card-hint">Select any project to open its complete case study, including methods, results, limitations, and public artifacts.</p>
+    <div class="research-grid">
+      <article class="research-card">
+        <div class="card-topline"><span class="eyebrow">Computational biology</span><span class="card-note">Main researcher</span></div>
+        <h3><a href="./projects/dna-methylation/">DNA Methylation Bayesian Structure Learning</a></h3>
+        <p class="card-metric">121 datasets · 15.87M structure scores · 461,271 window pairs</p>
+        <p>Built an exhaustive local structure-learning workflow for CpG triplets, separated equivalence-aware agreement from causal interpretation, and connected Bayesian networks with methylation-state transition models.</p>
+        <div class="research-tags"><span>Bayesian networks</span><span>Markov chains</span><span>Python</span></div>
       </article>
-
-      <article class="signature-project">
-        <div class="signature-identity">
-          <p class="eyebrow">Healthcare analytics · Project lead and chief data analyst</p>
-          <h3><a href="./projects/chronic-care/">Chronic Care Pathway Risk Modeling</a></h3>
-          <p>Reconstructed longitudinal care pathways and developed a temporally validated acute-event model with calibration, subgroup checks, and interpretable pathway features.</p>
-          <span class="case-link">Read the complete case study</span>
-        </div>
-        <dl class="evidence-list">
-          <div><dt>Data</dt><dd>7.68M encounters</dd></div>
-          <div><dt>Evaluation</dt><dd>PR-AUC 0.187 · temporal validation</dd></div>
-          <div><dt>Recognition</dt><dd>ASA DataFest Best Insight · Beijing Second Prize</dd></div>
-        </dl>
+      <article class="research-card">
+        <div class="card-topline"><span class="eyebrow">Healthcare analytics</span><span class="card-note">Two competition awards</span></div>
+        <h3><a href="./projects/chronic-care/">Chronic Care Pathway Risk Modeling</a></h3>
+        <p class="card-metric">7.68M encounters · 65,705 pathways · PR-AUC 0.187</p>
+        <p>Reconstructed longitudinal care sequences and developed a temporally validated acute-event model with calibration, subgroup checks, and clinically interpretable pathway features.</p>
+        <div class="research-tags"><span>Longitudinal data</span><span>LightGBM</span><span>Calibration</span></div>
       </article>
-
-      <article class="signature-project">
-        <div class="signature-identity">
-          <p class="eyebrow">Financial risk · Independent researcher</p>
-          <h3><a href="./projects/credit-risk/">Personal Credit Default Risk Modeling</a></h3>
-          <p>Compared five classifiers under severe class imbalance and interpreted the operational trade-off between detecting defaults and incorrectly flagging lower-risk borrowers.</p>
-          <span class="case-link">Read the complete case study</span>
-        </div>
-        <dl class="evidence-list">
-          <div><dt>Data</dt><dd>150,000 borrower records</dd></div>
-          <div><dt>Result</dt><dd>ROC-AUC 0.8391</dd></div>
-          <div><dt>Output</dt><dd>Sole-authored published paper</dd></div>
-        </dl>
+      <article class="research-card">
+        <div class="card-topline"><span class="eyebrow">Financial risk</span><span class="card-note">Published paper</span></div>
+        <h3><a href="./projects/credit-risk/">Personal Credit Default Risk Modeling</a></h3>
+        <p class="card-metric">150,000 records · five models · ROC-AUC 0.8391</p>
+        <p>Completed a leakage-aware comparison under severe class imbalance and interpreted the operational trade-off between detecting defaults and incorrectly flagging lower-risk borrowers.</p>
+        <div class="research-tags"><span>Imbalanced learning</span><span>Model comparison</span><span>Publication</span></div>
       </article>
-    </div>
-
-    <div class="subsection-heading">
-      <div><p class="section-kicker">Research and innovation systems</p><h3>From quantitative ideas to working prototypes</h3></div>
-      <p>Three additional projects show how I translate analytical reasoning into systems that can be reviewed, tested, and used.</p>
-    </div>
-
-    <div class="project-trio">
-      <article class="project-block">
-        <p class="eyebrow">Experimentation</p>
+      <article class="research-card">
+        <div class="card-topline"><span class="eyebrow">Experimentation</span><span class="card-note">First-named inventor</span></div>
         <h3><a href="./projects/ab-testing/">Small-Sample A/B Testing System</a></h3>
-        <p>Dual-stream experimental design separating adaptive allocation from randomized validation, with confidence-aware shrinkage and historical-prior transfer.</p>
-        <div class="project-proof"><strong>First-named inventor</strong><span>Published patent application</span></div>
+        <p class="card-metric">Adaptive allocation · independent randomized validation</p>
+        <p>Designed a dual-stream framework for sparse and cold-start experiments, with confidence-aware shrinkage and historical-prior transfer.</p>
+        <div class="research-tags"><span>A/B testing</span><span>Statistical inference</span><span>Patent</span></div>
       </article>
-      <article class="project-block">
-        <p class="eyebrow">Applied AI</p>
+      <article class="research-card">
+        <div class="card-topline"><span class="eyebrow">Applied AI</span><span class="card-note">Beijing First Prize</span></div>
         <h3><a href="./projects/xiangchan/">Xiangchan AI Operations Platform</a></h3>
-        <p>A source-aware Node.js workflow that converts fragmented rural-product information into reviewable operating materials with risk checks and offline fallback.</p>
-        <div class="project-proof"><strong>22 automated tests</strong><span>Beijing First Prize</span></div>
+        <p class="card-metric">22 automated tests · five simulated product cases</p>
+        <p>Built a Node.js platform that turns fragmented rural-product information into source-aware, reviewable operating materials with risk checks and offline fallback.</p>
+        <div class="research-tags"><span>Node.js</span><span>Traceability</span><span>Human review</span></div>
       </article>
-      <article class="project-block">
-        <p class="eyebrow">Risk systems</p>
+      <article class="research-card">
+        <div class="card-topline"><span class="eyebrow">Risk systems</span><span class="card-note">Provincial outstanding project</span></div>
         <h3><a href="./projects/safetrace/">SafeTrace Asset Security</a></h3>
-        <p>An explainable sense–assess–respond prototype for route replay, geofencing, event logging, and response planning across three asset-security scenarios.</p>
-        <div class="project-proof"><strong>Three scenarios</strong><span>Provincial outstanding project</span></div>
+        <p class="card-metric">Three scenarios · route, geofence, SOS, and device events</p>
+        <p>Turned a tracking concept into an explainable sense–assess–respond prototype for e-bikes, luggage, and high-value assets.</p>
+        <div class="research-tags"><span>JavaScript</span><span>Geofencing</span><span>Decision support</span></div>
       </article>
-    </div>
-  </div>
-</section>
-
-<section id="experience" class="home-section section-tint">
-  <div class="section-shell">
-    <div class="section-heading">
-      <div><p class="section-kicker">Applied experience</p><h2>Four settings, four kinds of evidence</h2></div>
-      <p>My internships moved across scientific quality control, investment research, business intelligence, and official statistics. The common thread was turning incomplete records into defensible analysis.</p>
-    </div>
-    <div class="experience-list">
-      <article class="experience-card"><div class="experience-date"><strong>2026</strong><span>Aug–Oct</span></div><div><p class="experience-meta">Research internship · Neuroscience</p><h3><a href="./projects/internships/cibr/">Chinese Institute for Brain Research</a></h3><p>Linked functional imaging, three-dimensional microscopy, and EASI-FISH measurements through z-stack review, spot correction, ROI–gene matrix construction, and exploratory clustering.</p></div><span class="experience-focus">Multimodal data</span></article>
-      <article class="experience-card"><div class="experience-date"><strong>2025</strong><span>Jul–Sep</span></div><div><p class="experience-meta">Investment research and data analysis internship</p><h3><a href="./projects/internships/huaneng/">Huaneng Investment Management</a></h3><p>Combined energy-sector research, an internal LLM-adoption study, source-traceable retrieval, and robust analysis of 472 A-share IPOs across four boards.</p></div><span class="experience-focus">Research + analytics</span></article>
-      <article class="experience-card"><div class="experience-date"><strong>2025</strong><span>Feb–Mar</span></div><div><p class="experience-meta">Data analysis internship · Business intelligence</p><h3><a href="./projects/internships/trs/">TRS Information Technology</a></h3><p>Integrated sales tables with SQL, reconciled business metrics, and independently built a FineBI dashboard covering product, region, discount, and target performance.</p></div><span class="experience-focus">SQL + FineBI</span></article>
-      <article class="experience-card"><div class="experience-date"><strong>2024</strong><span>Jun–Aug</span></div><div><p class="experience-meta">Statistical analysis internship · Public sector</p><h3><a href="./projects/internships/dadong/">Dadong District Statistics Bureau</a></h3><p>Validated enterprise and fixed-asset investment records through cross-period checks, growth and contribution analysis, evidence review, and monitoring ledgers.</p></div><span class="experience-focus">Data validation</span></article>
     </div>
   </div>
 </section>
@@ -151,6 +112,21 @@ description: Selected research, internships, and applied projects in statistics,
       <article class="course-card"><p class="eyebrow">Econometrics</p><h3><a href="./projects/us-inflation/">U.S. Inflation and Macroeconomic Factors</a></h3><p>A reproducible FRED time-series study with calendar-aware residual lags, diagnostics, post-pandemic analysis, and robustness specifications.</p><strong>298 months · AR(3) · HAC inference</strong></article>
       <article class="course-card"><p class="eyebrow">Nonparametric statistics</p><h3><a href="./projects/sleep-health/">Sleep, Stress, and Lifestyle</a></h3><p>Rank, exact, post-hoc, density, and smoothing methods matched to ordinal, tied, and non-normal health data.</p><strong>374 records · rank and exact methods</strong></article>
       <article class="course-card"><p class="eyebrow">Customer analytics</p><h3><a href="./projects/yelp-sentiment/">Tucson Yelp Sentiment Analysis</a></h3><p>Review sentiment and anonymous customer profiles analyzed while keeping raw text and identifiers out of public outputs.</p><strong>2,000 reviews · four clusters</strong></article>
+    </div>
+  </div>
+</section>
+
+<section id="experience" class="home-section section-tint">
+  <div class="section-shell">
+    <div class="section-heading">
+      <div><p class="section-kicker">Internship experience</p><h2>Research and industry internships</h2></div>
+      <p>Four internships across neuroscience research, investment analysis, business intelligence, and government statistics. Each record focuses on the analytical work completed and the evidence produced.</p>
+    </div>
+    <div class="experience-list">
+      <article class="experience-card"><div class="experience-date"><strong>2026</strong><span>Aug–Oct</span></div><div><p class="experience-meta">Research internship · Neuroscience</p><h3><a href="./projects/internships/cibr/">Chinese Institute for Brain Research</a></h3><p>Linked functional imaging, three-dimensional microscopy, and EASI-FISH measurements through z-stack review, spot correction, ROI–gene matrix construction, and exploratory clustering.</p></div><span class="experience-focus">Multimodal data</span></article>
+      <article class="experience-card"><div class="experience-date"><strong>2025</strong><span>Jul–Sep</span></div><div><p class="experience-meta">Investment research and data analysis internship</p><h3><a href="./projects/internships/huaneng/">Huaneng Investment Management</a></h3><p>Combined energy-sector research, an internal LLM-adoption study, source-traceable retrieval, and robust analysis of 472 A-share IPOs across four boards.</p></div><span class="experience-focus">Research + analytics</span></article>
+      <article class="experience-card"><div class="experience-date"><strong>2025</strong><span>Feb–Mar</span></div><div><p class="experience-meta">Data analysis internship · Business intelligence</p><h3><a href="./projects/internships/trs/">TRS Information Technology</a></h3><p>Integrated sales tables with SQL, reconciled business metrics, and independently built a FineBI dashboard covering product, region, discount, and target performance.</p></div><span class="experience-focus">SQL + FineBI</span></article>
+      <article class="experience-card"><div class="experience-date"><strong>2024</strong><span>Jun–Aug</span></div><div><p class="experience-meta">Statistical analysis internship · Public sector</p><h3><a href="./projects/internships/dadong/">Dadong District Statistics Bureau</a></h3><p>Validated enterprise and fixed-asset investment records through cross-period checks, growth and contribution analysis, evidence review, and monitoring ledgers.</p></div><span class="experience-focus">Data validation</span></article>
     </div>
   </div>
 </section>

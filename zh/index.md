@@ -46,42 +46,17 @@ description: 统计学、数据科学、生物医学数据、金融、实验与�
 <section id="work" class="home-section section-white">
   <div class="section-shell">
     <div class="section-heading">
-      <div><p class="section-kicker">核心研究</p><h2>最能代表我研究方式的三个项目</h2></div>
-      <p>这些项目不止于简历中的一行概括。每个完整项目页都记录研究问题、分析选择、评估设计、局限与可查看的成果。</p>
+      <div><p class="section-kicker">科研与创新</p><h2>代表项目</h2></div>
+      <p>六个项目涵盖计算生物学、医疗、金融、实验设计、应用型 AI 与风险系统。每张卡片概括问题、规模、方法与结果。</p>
     </div>
-
-    <div class="signature-list">
-      <article class="signature-project">
-        <div class="signature-identity"><p class="eyebrow">计算生物学 · 主要研究者</p><h3><a href="../projects/dna-methylation/">DNA 甲基化贝叶斯结构学习</a></h3><p>为 CpG 三元组建立穷举式局部结构学习流程，并区分等价类意义上的结构一致性与因果解释。</p><span class="case-link">查看完整项目记录</span></div>
-        <dl class="evidence-list"><div><dt>研究规模</dt><dd>121 个 ENCODE 数据集</dd></div><div><dt>计算量</dt><dd>约 1,587 万次结构评分</dd></div><div><dt>方法</dt><dd>贝叶斯网络 · 马尔可夫链 · Python</dd></div></dl>
-      </article>
-      <article class="signature-project">
-        <div class="signature-identity"><p class="eyebrow">医疗分析 · 项目负责人兼首席数据分析师</p><h3><a href="../projects/chronic-care/">慢病诊疗路径风险建模</a></h3><p>重构纵向诊疗路径，建立经过时间验证的急性事件风险模型，并完成校准、亚组检查与路径特征解释。</p><span class="case-link">查看完整项目记录</span></div>
-        <dl class="evidence-list"><div><dt>数据</dt><dd>768 万条就诊记录</dd></div><div><dt>评估</dt><dd>PR-AUC 0.187 · 时间验证</dd></div><div><dt>荣誉</dt><dd>ASA DataFest Best Insight · 北京赛区二等奖</dd></div></dl>
-      </article>
-      <article class="signature-project">
-        <div class="signature-identity"><p class="eyebrow">金融风险 · 独立研究者</p><h3><a href="../projects/credit-risk/">个人信用违约风险建模</a></h3><p>在严重类别不平衡下比较五类分类器，并解释识别违约者与误判低风险借款人之间的实际取舍。</p><span class="case-link">查看完整项目记录</span></div>
-        <dl class="evidence-list"><div><dt>数据</dt><dd>约 15 万条借款人记录</dd></div><div><dt>结果</dt><dd>ROC-AUC 0.8391</dd></div><div><dt>成果</dt><dd>独著已发表论文</dd></div></dl>
-      </article>
-    </div>
-
-    <div class="subsection-heading"><div><p class="section-kicker">科研与创新系统</p><h3>从定量思路到可运行原型</h3></div><p>三个补充项目展示我如何将分析思路转化为可复核、可测试和可使用的系统。</p></div>
-    <div class="project-trio">
-      <article class="project-block"><p class="eyebrow">实验系统</p><h3><a href="../projects/ab-testing/">小样本 A/B 测试系统</a></h3><p>将自适应分流与随机验证分离的双流实验设计，并引入置信度收缩与历史先验迁移。</p><div class="project-proof"><strong>第一发明人</strong><span>已公开专利申请</span></div></article>
-      <article class="project-block"><p class="eyebrow">应用型 AI</p><h3><a href="../projects/xiangchan/">乡产 AI 运营平台</a></h3><p>将零散乡产信息转化为带来源、可复核的运营材料，并加入风险检查与离线兜底。</p><div class="project-proof"><strong>22 项自动化测试</strong><span>北京市一等奖</span></div></article>
-      <article class="project-block"><p class="eyebrow">风险系统</p><h3><a href="../projects/safetrace/">SafeTrace 资产安全系统</a></h3><p>面向三类资产安全场景，实现路线回放、电子围栏、事件记录与响应规划。</p><div class="project-proof"><strong>三类场景</strong><span>省市级优秀结项</span></div></article>
-    </div>
-  </div>
-</section>
-
-<section id="experience" class="home-section section-tint">
-  <div class="section-shell">
-    <div class="section-heading"><div><p class="section-kicker">应用经历</p><h2>四种场景，四种证据</h2></div><p>四段实习横跨科学质控、投资研究、商业智能与官方统计。共同的工作是将不完整记录转化为经得起核验的分析。</p></div>
-    <div class="experience-list">
-      <article class="experience-card"><div class="experience-date"><strong>2026</strong><span>08–10</span></div><div><p class="experience-meta">科研实习 · 神经科学</p><h3><a href="../projects/internships/cibr/">北京脑科学与类脑研究所</a></h3><p>连接功能成像、三维显微图像和 EASI-FISH 测量，完成 z-stack 复核、荧光点修正、ROI–gene 矩阵构建和探索性聚类。</p></div><span class="experience-focus">多模态数据</span></article>
-      <article class="experience-card"><div class="experience-date"><strong>2025</strong><span>07–09</span></div><div><p class="experience-meta">投资研究与数据分析实习</p><h3><a href="../projects/internships/huaneng/">华能投资管理有限公司</a></h3><p>完成能源行业研究、内部大模型采用研究、可追溯检索原型，以及覆盖四个板块的 472 个 A 股 IPO 分析。</p></div><span class="experience-focus">研究 + 分析</span></article>
-      <article class="experience-card"><div class="experience-date"><strong>2025</strong><span>02–03</span></div><div><p class="experience-meta">数据分析实习 · 商业智能</p><h3><a href="../projects/internships/trs/">拓尔思信息技术</a></h3><p>使用 SQL 整合销售数据、核验业务指标，并独立搭建覆盖产品、地区、折扣和目标完成率的 FineBI 看板。</p></div><span class="experience-focus">SQL + FineBI</span></article>
-      <article class="experience-card"><div class="experience-date"><strong>2024</strong><span>06–08</span></div><div><p class="experience-meta">统计分析实习 · 政府统计</p><h3><a href="../projects/internships/dadong/">沈阳市大东区统计局</a></h3><p>通过跨期核验、增长与贡献分析、材料复核和监测台账，验证企业经营与固定资产投资数据。</p></div><span class="experience-focus">数据核验</span></article>
+    <p class="card-hint">点击任意项目可查看完整记录，包括方法、结果、局限与公开材料。</p>
+    <div class="research-grid">
+      <article class="research-card"><div class="card-topline"><span class="eyebrow">计算生物学</span><span class="card-note">主要研究者</span></div><h3><a href="../projects/dna-methylation/">DNA 甲基化贝叶斯结构学习</a></h3><p class="card-metric">121 个数据集 · 约 1,587 万次结构评分 · 461,271 对窗口</p><p>建立 CpG 三元组局部结构学习流程，区分等价类结构一致性与因果解释，并连接贝叶斯网络与甲基化状态转移模型。</p><div class="research-tags"><span>贝叶斯网络</span><span>马尔可夫链</span><span>Python</span></div></article>
+      <article class="research-card"><div class="card-topline"><span class="eyebrow">医疗分析</span><span class="card-note">两项竞赛奖项</span></div><h3><a href="../projects/chronic-care/">慢病诊疗路径风险建模</a></h3><p class="card-metric">768 万条就诊记录 · 65,705 条路径 · PR-AUC 0.187</p><p>重构纵向诊疗序列，建立经过时间验证的急性事件模型，并完成校准、亚组检查和诊疗路径特征解释。</p><div class="research-tags"><span>纵向数据</span><span>LightGBM</span><span>模型校准</span></div></article>
+      <article class="research-card"><div class="card-topline"><span class="eyebrow">金融风险</span><span class="card-note">已发表论文</span></div><h3><a href="../projects/credit-risk/">个人信用违约风险建模</a></h3><p class="card-metric">约 15 万条记录 · 5 类模型 · ROC-AUC 0.8391</p><p>在严重类别不平衡下完成防止数据泄漏的统一比较，并讨论识别违约者与误判低风险借款人的实际取舍。</p><div class="research-tags"><span>不平衡学习</span><span>模型比较</span><span>论文发表</span></div></article>
+      <article class="research-card"><div class="card-topline"><span class="eyebrow">实验系统</span><span class="card-note">第一发明人</span></div><h3><a href="../projects/ab-testing/">小样本 A/B 测试系统</a></h3><p class="card-metric">自适应分流 · 独立随机验证</p><p>面向小样本与冷启动实验设计双流框架，并引入置信度收缩和历史先验迁移。</p><div class="research-tags"><span>A/B 测试</span><span>统计推断</span><span>专利</span></div></article>
+      <article class="research-card"><div class="card-topline"><span class="eyebrow">应用型 AI</span><span class="card-note">北京市一等奖</span></div><h3><a href="../projects/xiangchan/">乡产 AI 运营平台</a></h3><p class="card-metric">22 项自动化测试 · 5 个模拟产品案例</p><p>开发 Node.js 平台，将零散乡产信息转化为带来源、可复核的运营材料，并加入风险检查与离线兜底。</p><div class="research-tags"><span>Node.js</span><span>来源追溯</span><span>人工复核</span></div></article>
+      <article class="research-card"><div class="card-topline"><span class="eyebrow">风险系统</span><span class="card-note">省市级优秀结项</span></div><h3><a href="../projects/safetrace/">SafeTrace 资产安全系统</a></h3><p class="card-metric">三类场景 · 轨迹、围栏、SOS 与设备事件</p><p>将定位器概念扩展为“感知—判断—响应”决策原型，用于电动车、行李和高价值资产场景。</p><div class="research-tags"><span>JavaScript</span><span>电子围栏</span><span>决策支持</span></div></article>
     </div>
   </div>
 </section>
@@ -94,6 +69,18 @@ description: 统计学、数据科学、生物医学数据、金融、实验与�
       <article class="course-card"><p class="eyebrow">计量经济学</p><h3><a href="../projects/us-inflation/">美国通胀与宏观因素</a></h3><p>建立可复现的 FRED 时间序列研究，处理日历月份间隔并完成诊断、疫情后分析与稳健性检验。</p><strong>298 个月度观测 · AR(3) · HAC 推断</strong></article>
       <article class="course-card"><p class="eyebrow">非参数统计</p><h3><a href="../projects/sleep-health/">睡眠、压力与生活方式</a></h3><p>针对有序、重复和非正态健康数据，匹配秩、精确、事后、密度与平滑方法。</p><strong>374 条记录 · 秩方法与精确方法</strong></article>
       <article class="course-card"><p class="eyebrow">客户分析</p><h3><a href="../projects/yelp-sentiment/">图森 Yelp 评论情绪分析</a></h3><p>分析评论情绪和匿名客户画像，同时确保公开结果不包含原始文本和用户标识符。</p><strong>2,000 条评论 · 4 个聚类</strong></article>
+    </div>
+  </div>
+</section>
+
+<section id="experience" class="home-section section-tint">
+  <div class="section-shell">
+    <div class="section-heading"><div><p class="section-kicker">实习经历</p><h2>科研与行业实习</h2></div><p>四段实习横跨神经科学研究、投资分析、商业智能与政府统计，重点展示具体完成的分析工作与可核验产出。</p></div>
+    <div class="experience-list">
+      <article class="experience-card"><div class="experience-date"><strong>2026</strong><span>08–10</span></div><div><p class="experience-meta">科研实习 · 神经科学</p><h3><a href="../projects/internships/cibr/">北京脑科学与类脑研究所</a></h3><p>连接功能成像、三维显微图像和 EASI-FISH 测量，完成 z-stack 复核、荧光点修正、ROI–gene 矩阵构建和探索性聚类。</p></div><span class="experience-focus">多模态数据</span></article>
+      <article class="experience-card"><div class="experience-date"><strong>2025</strong><span>07–09</span></div><div><p class="experience-meta">投资研究与数据分析实习</p><h3><a href="../projects/internships/huaneng/">华能投资管理有限公司</a></h3><p>完成能源行业研究、内部大模型采用研究、可追溯检索原型，以及覆盖四个板块的 472 个 A 股 IPO 分析。</p></div><span class="experience-focus">研究 + 分析</span></article>
+      <article class="experience-card"><div class="experience-date"><strong>2025</strong><span>02–03</span></div><div><p class="experience-meta">数据分析实习 · 商业智能</p><h3><a href="../projects/internships/trs/">拓尔思信息技术</a></h3><p>使用 SQL 整合销售数据、核验业务指标，并独立搭建覆盖产品、地区、折扣和目标完成率的 FineBI 看板。</p></div><span class="experience-focus">SQL + FineBI</span></article>
+      <article class="experience-card"><div class="experience-date"><strong>2024</strong><span>06–08</span></div><div><p class="experience-meta">统计分析实习 · 政府统计</p><h3><a href="../projects/internships/dadong/">沈阳市大东区统计局</a></h3><p>通过跨期核验、增长与贡献分析、材料复核和监测台账，验证企业经营与固定资产投资数据。</p></div><span class="experience-focus">数据核验</span></article>
     </div>
   </div>
 </section>

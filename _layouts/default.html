@@ -25,8 +25,8 @@
         <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
         <nav id="site-nav" class="site-nav" aria-label="Primary navigation">
           <a href="{% if page.url contains '/zh/' %}{{ '/zh/#work' | relative_url }}{% else %}{{ '/#work' | relative_url }}{% endif %}">{% if page.url contains '/zh/' %}代表项目{% else %}Selected Work{% endif %}</a>
-          <a href="{% if page.url contains '/zh/' %}{{ '/zh/#experience' | relative_url }}{% else %}{{ '/#experience' | relative_url }}{% endif %}">{% if page.url contains '/zh/' %}实习经历{% else %}Internships{% endif %}</a>
           <a href="{% if page.url contains '/zh/' %}{{ '/zh/#coursework' | relative_url }}{% else %}{{ '/#coursework' | relative_url }}{% endif %}">{% if page.url contains '/zh/' %}课程项目{% else %}Course Work{% endif %}</a>
+          <a href="{% if page.url contains '/zh/' %}{{ '/zh/#experience' | relative_url }}{% else %}{{ '/#experience' | relative_url }}{% endif %}">{% if page.url contains '/zh/' %}实习经历{% else %}Internships{% endif %}</a>
           <a href="{% if page.url contains '/zh/' %}{{ '/zh/#recognition' | relative_url }}{% else %}{{ '/#recognition' | relative_url }}{% endif %}">{% if page.url contains '/zh/' %}荣誉与综合素质{% else %}Recognition{% endif %}</a>
           <a href="https://github.com/haonan-li-source">GitHub</a>
           {% if page.url contains '/zh/' %}
